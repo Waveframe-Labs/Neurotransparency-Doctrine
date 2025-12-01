@@ -1,18 +1,17 @@
 ---
-document-type: doctrine
-title: Neurotransparency Doctrine
-version: 1.0.1
-release_date: 2025-11-19
-maintainer: Waveframe Labs
-contact: swright@waveframelabs.org
-license: CC BY 4.0
-orcid: 0009-0006-6043-9295
-related:
-  - Neurotransparency Specification (NTS) v1.0.0
-  - Aurora Workflow Orchestration (AWO) v1.2.1
-  - CRI-CORE (forthcoming)
-doi: TBD
-institution: Waveframe Labs / Aurora Research Initiative
+title: "Neurotransparency Doctrine"
+version: "1.0.1"
+status: "Active"
+created: "2025-11-19"
+updated: "2025-12-01"
+type: "epistemics"
+author: "Shawn C. Wright"
+dependencies:
+  - "Neurotransparency Specification (NTS)"
+  - "Aurora Workflow Orchestration (AWO)"
+  - "CRI-CORE"
+anchors:
+  - "ANCHOR: NT-Doctrine-v1.0.1-MetadataNormalized"
 ---
 
 # Neurotransparency Doctrine  
