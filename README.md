@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="figures/neuro_doc_banner.png" alt="Neurotransparency Doctrine Banner" width="100%">
+</p>  
 # Neurotransparency Doctrine  
 *Foundational Epistemic Framework for Cognitive Integrity in AI–Human Scientific Workflows*  
 
