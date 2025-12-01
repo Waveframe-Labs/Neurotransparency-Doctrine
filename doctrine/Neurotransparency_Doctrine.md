@@ -1,6 +1,6 @@
 ---
 title: "Neurotransparency Doctrine"
-version: "1.0.1"
+version: "1.0.0"
 status: "Active"
 created: "2025-11-19"
 updated: "2025-12-01"
@@ -11,7 +11,7 @@ dependencies:
   - "Aurora Workflow Orchestration (AWO)"
   - "CRI-CORE"
 anchors:
-  - "ANCHOR: NT-Doctrine-v1.0.1-MetadataNormalized"
+  - "ANCHOR: NT-Doctrine-v1.0.0-MetadataNormalized"
 ---
 
 # Neurotransparency Doctrine  
@@ -225,7 +225,7 @@ Together, they define the next stage of scientific reproducibility.
   author       = {Wright, Shawn C.},
   title        = {Neurotransparency Doctrine: An Epistemic Primitive for AI–Human Scientific Collaboration},
   year         = {2025},
-  version      = {1.0.1},
+  version      = {1.0.0},
   institution  = {Waveframe Labs / Aurora Research Initiative},
   license      = {CC BY 4.0},
   orcid        = {0009-0006-6043-9295},
