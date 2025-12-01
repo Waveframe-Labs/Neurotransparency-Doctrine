@@ -29,14 +29,20 @@ Version 1.0.1
 DOI: TBD
 ```
 ---  
-# License  
-This work is released under the Creative Commons Attribution 4.0 International (CC BY 4.0) license.  
----  
-# Neurotransparency Is an Epistemic Primitive    
+## License  
+This work is released under the Creative Commons  
+Attribution 4.0 International (CC BY 4.0) license.
 
-For details, see the full doctrine:     
-(doctrine/Neurotransparency_Doctrine.md)     
----  
+---
+
+## Neurotransparency Is an Epistemic Primitive
+
+For details, see the full doctrine:  
+➡️ [Neurotransparency_Doctrine.md](doctrine/Neurotransparency_Doctrine.md)
+
+---
+
 <div align="center">
   <sub>© 2025 Waveframe Labs — Independent Open-Science Research Entity • Governed under the Aurora Research Initiative (ARI)</sub>
-</div>  
+</div>
+
