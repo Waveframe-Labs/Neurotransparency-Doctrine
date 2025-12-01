@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "Neurotransparency Doctrine: Epistemic Foundations for AI–Human Scientific Cognition"
+version: "1.0.1"
+authors:
+  - family-names: "Wright"
+    given-names: "Shawn C."
+    orcid: "https://orcid.org/0009-0006-6043-9295"
+doi: "TBD"
+date-released: "2025-12-01"
+keywords:
+  - neurotrasparency
+  - epistemic governance
+  - reproducible research
+  - scientific workflows
+  - AI governance
+  - cognitive provenance
+  - distributed cognition
+  - Waveframe Labs
+  - Aurora Research Initiative
+license: "CC-BY-4.0"
+repository-artifact: "https://github.com/Waveframe-Labs/Neurotransparency-Doctrine"
+repository-code: "https://github.com/Waveframe-Labs/Neurotransparency-Doctrine"
