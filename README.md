@@ -56,9 +56,13 @@ This separation ensures clarity, provenance, and long-term governance integrity.
 ```
 ---
 
-## PDF Generation  
-To generate the canonical PDF artifact, use the Waveframe PDF Forge:
-[https://github.com/Waveframe-Labs/Waveframe-pdf-Forge]  
+## PDF Artifact
+
+This repository does not store generated PDF files.  
+The canonical PDF version of the doctrine is produced externally using the **Waveframe PDF Forge**.
+
+**Waveframe PDF Forge:**  
+[https://github.com/Waveframe-Labs/Waveframe-pdf-Forge](https://github.com/Waveframe-Labs/Waveframe-pdf-Forge)
 
 ---
 
