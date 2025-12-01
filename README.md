@@ -57,15 +57,8 @@ This separation ensures clarity, provenance, and long-term governance integrity.
 ---
 
 ## PDF Generation  
-This repository intentionally **does not** store generated PDFs.  
-To produce the canonical PDF artifact:
-
-1. Open the doctrine Markdown file in the **Waveframe PDF Forge**.  
-2. Generate the PDF (Forge enforces deterministic rendering).  
-3. Download the PDF artifact.  
-
-Waveframe PDF Forge:  
-➡️ [https://github.com/Waveframe-Labs/Waveframe-pdf-Forge](https://github.com/Waveframe-Labs/Waveframe-pdf-Forge.git)
+To generate the canonical PDF artifact, use the Waveframe PDF Forge:
+[https://github.com/Waveframe-Labs/Waveframe-pdf-Forge]  
 
 ---
 
