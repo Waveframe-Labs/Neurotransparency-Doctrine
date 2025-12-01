@@ -1,0 +1,11 @@
+---
+title: "Neurotransparency Doctrine — Canonical Text Directory"
+version: "1.0.0"
+status: "Active"
+created: "2025-12-01"
+type: "directory"
+author: "Waveframe Labs"
+purpose: "Holds the canonical markdown source files for the Neurotransparency Doctrine."
+anchors:
+  - "ANCHOR: NT-DOCTRINE-DIR-v1.0.0"
+---
