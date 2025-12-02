@@ -75,7 +75,7 @@ The canonical PDF version of the doctrine is produced externally using the **Wav
 Wright, Shawn C. (2025). Neurotransparency Doctrine:
 Epistemic Foundations for AI–Human Scientific Cognition.
 Waveframe Labs / Aurora Research Initiative (ARI).
-Version 1.0.1
+Version 1.0.0
 DOI: TBD
 ```
 
