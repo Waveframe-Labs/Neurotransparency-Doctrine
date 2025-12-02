@@ -63,10 +63,7 @@ This separation ensures clarity, provenance, and long-term governance integrity.
 ## PDF Artifact
 
 This repository does not store generated PDF files.  
-The canonical PDF version of the doctrine is produced externally using the **Waveframe PDF Forge**.
-
-**Waveframe PDF Forge:**  
-[https://github.com/Waveframe-Labs/Waveframe-pdf-Forge](https://github.com/Waveframe-Labs/Waveframe-pdf-Forge)
+The canonical PDF version of the doctrine is produced externally.
 
 ---
 
