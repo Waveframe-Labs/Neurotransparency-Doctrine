@@ -36,7 +36,9 @@ The **Neurotransparency Doctrine** establishes the non-negotiable epistemic cond
 
 Neurotransparency is not an interpretability tool, ethical preference, or best practice.  
 It is an **epistemic boundary condition**:  
-if the reasoning behind a claim cannot be reconstructed, the claim has no legitimacy.
+if the reasoning behind a claim cannot be reconstructed, the claim has no legitimacy.  
+
+Neurotransparency defines the epistemic foundation (Layer 0) that makes scientific and organizational standards possible (Layer 1). ARI, AWO, and CRI-CORE provide the institutional mechanisms that enforce these standards (Layer 2).  
 
 ---
 
@@ -99,7 +101,9 @@ The smallest admissible unit of cognition must contain:
 - a stable output  
 - a timestamp  
 
-Anything less is metadata, not cognition.
+The unit must be sufficiently explicit that it can be revalidated or recomputed without reference to inaccessible cognitive states.  
+
+Anything less is metadata, not cognition.  
 
 ### Axiom 7 — Downstream Validity  
 
@@ -188,7 +192,9 @@ AWO and CRI-CORE implement those rules through:
 - role separation  
 - integrity guarantees  
 - validation constraints   
- Neurotransparency governs epistemic validity; NTS governs structural compliance; AWO and CRI-CORE govern operational enforcement.
+ Neurotransparency governs epistemic validity.  
+NTS governs structural compliance.  
+AWO and CRI-CORE govern operational enforcement.
 
 **The doctrine is philosophical.**  
 **The specification is a compliance target.**
