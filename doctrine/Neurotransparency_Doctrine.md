@@ -79,7 +79,7 @@ A claim is admissible only if verifiable pointers exist linking it to the reason
 
 ### Axiom 3 — Integrity  
 
-All reasoning artifacts must be preserved in immutable form with **cryptographically verifiable integrity**.
+All reasoning artifacts must be preserved in immutable, integrity-protected form.
 
 ### Axiom 4 — Independence  
 
