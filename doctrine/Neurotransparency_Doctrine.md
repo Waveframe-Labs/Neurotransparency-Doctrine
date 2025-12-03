@@ -197,7 +197,7 @@ The **Neurotransparency Specification (NTS)** and **AWO / CRI-CORE** define **ho
 
 ## 9. Adoption Requirement
 
-Any workflow that utilizes distributed cognition to produce scientific claims must adopt neurotransparency as a structural invariant.
+Any workflow operating under ARI governance or producing scientific claims within the Waveframe Labs ecosystem must adopt neurotransparency as a structural invariant.
 
 Partial or interpretive adoption **undermines epistemic legitimacy**.  
 Cognition can influence a claim only when **all** reasoning steps satisfy neurotransparency.
