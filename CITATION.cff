@@ -1,23 +1,20 @@
 cff-version: 1.2.0
 message: "If you use this work, please cite it as below."
-title: "Neurotransparency Doctrine: Epistemic Foundations for AI–Human Scientific Cognition"
-version: "1.0.1"
+title: "Neurotransparency Doctrine"
+version: "1.0.0"
+doi: "TBD"
 authors:
   - family-names: "Wright"
     given-names: "Shawn C."
     orcid: "https://orcid.org/0009-0006-6043-9295"
-doi: "TBD"
-date-released: "2025-12-01"
+abstract: >
+  The Neurotransparency Doctrine defines the epistemic boundary conditions
+  under which human and AI-assisted cognition may legitimately influence
+  scientific claims, forming Layer 0 of the Aurora Research Initiative stack.
 keywords:
-  - neurotrasparency
-  - epistemic governance
-  - reproducible research
-  - scientific workflows
-  - AI governance
-  - cognitive provenance
-  - distributed cognition
-  - Waveframe Labs
-  - Aurora Research Initiative
+  - "neurotransparency"
+  - "epistemic governance"
+  - "AI-assisted research"
+  - "reproducibility"
+  - "auditability"
 license: "CC-BY-4.0"
-repository-artifact: "https://github.com/Waveframe-Labs/Neurotransparency-Doctrine"
-repository-code: "https://github.com/Waveframe-Labs/Neurotransparency-Doctrine"
