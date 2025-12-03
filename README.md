@@ -52,18 +52,17 @@ This separation ensures clarity, provenance, and long-term governance integrity.
 ## Repository Structure
 ```
 /doctrine    - Canonical doctrine source (Markdown)
-/figures     - Visual assets and banners  
-/pdf         - Reserved for release artifacts (never committed directly)
+/figures     - Visual assets and banners   
 - Citation metadata (CITATION.cff)
 - License (CC BY 4.0)
 - README
 ```
 ---
 
-## PDF Artifact
+## PDF Release Artifact
 
-This repository does not store generated PDF files.  
-The canonical PDF version of the doctrine is produced externally.
+The canonical PDF for Doctrine v1.0.0 is **not committed to the repository**.
+It will be generated deterministically using Waveframe Labs’ PDF Forge and published as a **release asset** attached to the `v1.0.0` GitHub release.
 
 ---
 
@@ -76,7 +75,7 @@ Version 1.0.0
 DOI: TBD
 ```
 
-A machine-readable citation is provided in `citations/CITATION.cff`.
+citation metadata is provided in the root `CITATION.cff` file.
 
 ---
 
