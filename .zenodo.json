@@ -1,0 +1,22 @@
+{
+  "title": "Neurotransparency Doctrine",
+  "upload_type": "publication",
+  "publication_type": "standard",
+  "description": "The foundational epistemic doctrine governing AI–human cognitive transparency within the Waveframe Labs ecosystem.",
+  "creators": [
+    {
+      "name": "Wright, Shawn C.",
+      "orcid": "0009-0006-6043-9295"
+    }
+    ],
+  "license": "CC-BY-4.0",
+  "version": "1.0.0",
+  "keywords": [
+    "neurotransparency",
+    "epistemics",
+    "AI governance",
+    "distributed cognition",
+    "scientific reproducibility"
+  ],
+  "notes": "Doctrine PDF generated externally via deterministic tooling. See GitHub release assets."
+}
