@@ -7,7 +7,7 @@ updated: "2025-12-01"
 type: "epistemics"
 author: "Shawn C. Wright"
 dependencies:
-  - "Neurotransparency Specification (NTS)"  
+  - "NTS v1.1.0"  
 anchors:
   - "ANCHOR: NT-Doctrine-v1.0.0-MetadataNormalized"
 ---
@@ -188,13 +188,8 @@ AWO and CRI-CORE implement those rules through:
 - deterministic execution  
 - role separation  
 - integrity guarantees  
-- validation constraints  
-
-- schemas  
-- enforcement mechanisms  
-- role separation  
-- integrity guarantees  
-- validation constraints  
+- validation constraints   
+ Neurotransparency governs epistemic validity; NTS governs structural compliance; AWO and CRI-CORE govern operational enforcement.
 
 **The doctrine is philosophical.**  
 **The specification is a compliance target.**
@@ -203,7 +198,7 @@ AWO and CRI-CORE implement those rules through:
 
 ## 9. Adoption Requirement
 
-Any workflow claiming ARI governance or producing scientific claims with AI-assisted reasoning must adopt neurotransparency as a structural invariant.
+Any workflow involving distributed cognition and producing scientific claims must adopt neurotransparency as a structural invariant.
 
 Partial or interpretive adoption **undermines epistemic legitimacy**.  
 Cognition can influence a claim only when **all** reasoning steps satisfy neurotransparency.
