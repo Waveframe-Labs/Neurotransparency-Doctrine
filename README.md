@@ -8,7 +8,7 @@
 **Waveframe Labs · Aurora Research Initiative (ARI)**  
 [![Waveframe Labs](https://img.shields.io/badge/WAVEFRAME%20LABS-Institutional%20Repository-FF6A00?style=flat)](https://waveframelabs.org)
 [![Governed Repository](https://img.shields.io/badge/Governance-ARI%20Compliant-8A2BE2?style=flat)](https://github.com/Waveframe-Labs/Aurora-Research-Initiative)
-[![DOI](https://zenodo.org/badge/DOI/INSERT_CONCEPT_DOI_HERE.svg)](https://doi.org/INSERT_CONCEPT_DOI_HERE)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.YOUR_DOI_HERE.svg)](https://doi.org/10.5281/zenodo.YOUR_DOI_HERE)  
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0006--6043--9295-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0009-0006-6043-9295)  
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-blue.svg)](https://creativecommons.org/licenses/by/4.0/)
 
@@ -51,11 +51,12 @@ This separation ensures clarity, provenance, and long-term governance integrity.
 
 ## Repository Structure
 ```
-/doctrine    - Canonical doctrine source (Markdown)
-/figures     - Visual assets and banners   
-- Citation metadata (CITATION.cff)
-- License (CC BY 4.0)
-- README
+/doctrine      – Canonical doctrine source (Markdown)
+/figures       – Visual assets (banners, logos)
+/logs          – Governance and initialization records
+CITATION.cff   – Citation metadata
+LICENSE        – CC BY 4.0 license
+README.md      – Repository overview  
 ```
 ---
 
