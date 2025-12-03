@@ -8,24 +8,37 @@ authority: Aurora Research Initiative (ARI)
 
 # Neurotransparency Doctrine — Governance Log
 
-This log records the governance decisions, reviews, and approvals associated with the development and release of the *Neurotransparency Doctrine v1.0.0*.
+This log records governance decisions, approvals, and oversight actions for the **Neurotransparency Doctrine** repository.  
+It is the canonical governance trace for how the doctrine is maintained under **ARI** standards.
 
-## Entries
+---
 
-### 2025-12-04 — Pre-Release Audit Completed
-- **Action:** ARI governance review of Doctrine v1.0.0  
-- **Reviewer Role:** Auditor  
-- **Outcome:** Approved pending final edits  
-- **Notes:** Metadata normalized; Section 8 duplication removed; README citation path corrected; governance log created.
+## 1. Governance Events
 
-### 2025-12-04 — Repository Structure Verified
-- **Action:** Structural compliance check  
-- **Reviewer Role:** Maintainer  
-- **Outcome:** Passed  
-- **Notes:** No executable tooling present; doctrine isolated; dependencies correct.
+| Date       | Action                                         | Role       | Outcome      | Notes |
+|------------|-----------------------------------------------|-----------|--------------|-------|
+| 2025-12-01 | Creation of standalone Doctrine repository     | Maintainer | ✅ Approved   | Doctrine split out from AWO archives into its own ARI-governed repo. |
+| 2025-12-01 | Doctrine v1.0.0 content freeze for release     | Maintainer | ✅ Approved   | Text aligned with ARI governance; dependencies limited to NTS. |
+| 2025-12-01 | Repository structure + metadata review         | Auditor    | ✅ Compliant  | `README.md`, `CITATION.cff`, `.zenodo.json`, and descriptors verified against ARI norms. |
+| 2025-12-01 | PDF handling policy confirmed (Forge only)     | Auditor    | ✅ Compliant  | PDFs to be generated deterministically via Waveframe PDF Forge and attached only as release assets. |
 
-### 2025-12-04 — Ready for v1.0.0 Tag
-- **Action:** Release readiness  
-- **Reviewer Role:** Auditor  
-- **Outcome:** Approved  
-- **Notes:** Tag creation and PDF publication pending.
+---
+
+## 2. Governance Position
+
+- The Doctrine is treated as a **Layer 0 epistemic primitive** under ARI.
+- Implementation, enforcement, and runtime concerns are delegated to:
+  - Neurotransparency Specification (NTS)
+  - Aurora Workflow Orchestration (AWO)
+  - CRI-CORE
+
+Any modification to the doctrine’s axioms, core principle, or adoption requirement:
+
+1. must be recorded in this log,  
+2. must update the version in `doctrine/Neurotransparency_Doctrine.md`, and  
+3. must be reflected in `CITATION.cff` and `.zenodo.json`.
+
+---
+
+**Governance Authority:** Waveframe Labs / Aurora Research Initiative (ARI)  
+**Contact:** swright@waveframelabs.org
