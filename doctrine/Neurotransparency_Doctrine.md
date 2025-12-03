@@ -79,7 +79,7 @@ A claim is admissible only if verifiable pointers exist linking it to the reason
 
 ### Axiom 3 — Integrity  
 
-All reasoning artifacts must be preserved in immutable, integrity-protected form.
+All reasoning artifacts must be preserved in immutable form with cryptographically verifiable integrity.
 
 ### Axiom 4 — Independence  
 
@@ -182,7 +182,13 @@ Neurotransparency produces a new model of scientific legitimacy:
 ## 8. Doctrine–Specification Boundary
 
 The doctrine defines **why** neurotransparency is required.  
-The **Neurotransparency Specification (NTS)** and **AWO / CRI-CORE** define **how** it is operationalized through:
+The Neurotransparency Specification (NTS) defines the operational rules and schema-level requirements.
+AWO and CRI-CORE implement those rules through:
+- workflow enforcement  
+- deterministic execution  
+- role separation  
+- integrity guarantees  
+- validation constraints  
 
 - schemas  
 - enforcement mechanisms  
@@ -197,7 +203,7 @@ The **Neurotransparency Specification (NTS)** and **AWO / CRI-CORE** define **ho
 
 ## 9. Adoption Requirement
 
-Any workflow operating under ARI governance or producing scientific claims within the Waveframe Labs ecosystem must adopt neurotransparency as a structural invariant.
+Any workflow claiming ARI governance or producing scientific claims with AI-assisted reasoning must adopt neurotransparency as a structural invariant.
 
 Partial or interpretive adoption **undermines epistemic legitimacy**.  
 Cognition can influence a claim only when **all** reasoning steps satisfy neurotransparency.
