@@ -26,7 +26,7 @@ AI-assisted research is now produced by distributed cognition: humans, synthetic
 
 Scientific legitimacy cannot survive when the cognitive processes behind claims become unrecoverable.
 
-The **Neurotransparency Doctrine** establishes the non-negotiable epistemic conditions under which cognition—human or synthetic—may influence a scientific claim. It replaces trust with traceability, intuition with evidence, and authority with reconstructibility.
+The **Neurotransparency Doctrine** establishes the non-negotiable epistemic conditions under which cognition—human or synthetic—may influence AI-influenced claims and decisions. It replaces trust with traceability, intuition with evidence, and authority with reconstructibility.
 
 ---
 
@@ -75,7 +75,7 @@ Anonymous cognition has no epistemic status.
 
 ### Axiom 2 — Evidence-Linkage  
 
-A claim is admissible only if verifiable pointers exist linking it to the reasoning and evidence that produced it.
+A claim decision influenced by AI-assisted reasoning is admissible only if verifiable pointers exist linking it to the reasoning and evidence that produced it.
 
 ### Axiom 3 — Integrity  
 
@@ -162,8 +162,7 @@ To prevent dilution, the doctrine specifies what it *does not* require:
 - justification of internal cognition  
 - architectural modifications to AI systems  
 
-Neurotransparency applies **only** to cognition that influences scientific claims—  
-the moment reasoning leaves the mind and enters the record.
+Neurotransparency applies **only** to cognition that influences any claim or decision influenced by AI-assisted reasoning — the moment reasoning leaves the mind and enters the record.  
 
 ---
 
@@ -198,7 +197,7 @@ AWO and CRI-CORE implement those rules through:
 
 ## 9. Adoption Requirement
 
-Any workflow involving distributed cognition and producing scientific claims must adopt neurotransparency as a structural invariant.
+Any workflow involving distributed cognition and producing AI-influenced claims and decisions must adopt neurotransparency as a structural invariant.
 
 Partial or interpretive adoption **undermines epistemic legitimacy**.  
 Cognition can influence a claim only when **all** reasoning steps satisfy neurotransparency.
