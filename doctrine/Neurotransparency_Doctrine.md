@@ -3,11 +3,11 @@ title: "Neurotransparency Doctrine"
 version: "1.0.0"
 status: "Active"
 created: "2025-11-19"
-updated: "2025-12-01"
+updated: "2025-12-04"
 type: "epistemics"
 author: "Shawn C. Wright"
 dependencies:
-  - "NTS v1.1.0"  
+  - "Neurotransparency Specification (NTS) v1.1.0"   
 anchors:
   - "ANCHOR: NT-Doctrine-v1.0.0-MetadataNormalized"
 ---
