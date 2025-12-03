@@ -9,89 +9,33 @@ anchors:
   - "ANCHOR: NT-INIT-v1.0.0"
 ---
 
-# Initialization Log  
-**Repository:** Neurotransparency-Doctrine  
-**Maintainer:** Waveframe Labs  
-**Governance:** Aurora Research Initiative (ARI)  
-**License:** CC BY 4.0  
+# Neurotransparency Doctrine — Initialization Log
 
-This log records the foundational creation events for the Neurotransparency Doctrine repository.  
-All future modifications must reference this entry and maintain governance continuity.
+This log records the creation and initial configuration of the **Neurotransparency Doctrine** repository under the **Aurora Research Initiative (ARI)**.  
+All future structural or governance changes must append entries below in the same format.
 
 ---
 
-## 1. Repository Creation
-**Date:** 2025-12-01  
-**Action:** Repository initialized under Waveframe Labs for the standalone publication and governance of the Neurotransparency Doctrine.  
-**Rationale:** Doctrine separated from AWO to achieve repository-level identity, DOI-based citation, and institutional independence per ARI governance rules.
+## 1. Repository Initialization (2025-12-01)
+
+| Timestamp (UTC)        | Action                         | Rationale                                                                 | Governance Impact                              |
+|------------------------|--------------------------------|---------------------------------------------------------------------------|-----------------------------------------------|
+| 2025-12-01T00:00:00Z   | Repository created             | Established standalone home for the Neurotransparency Doctrine under ARI | Brings doctrine under ARI governance scope    |
+| 2025-12-01T00:05:00Z   | Doctrine v1.0.0 imported       | Canonical Markdown source moved from AWO `/archive/docs`                 | Preserves provenance while decoupling scopes  |
+| 2025-12-01T00:10:00Z   | Figures + descriptors added    | Added `neuro_doc_banner.png` and YAML descriptors for `/doctrine`/`/figures` | Enables deterministic builds and metadata  |
+| 2025-12-01T00:15:00Z   | Metadata + citation configured | Added `CITATION.cff`, `.zenodo.json`, `LICENSE`, and `README.md`         | Prepares repo for DOI-backed public release   |
+
+_No PDFs are committed to the repository. Canonical PDF artifacts for Doctrine v1.0.0 will be generated via the Waveframe PDF Forge and attached to the tagged GitHub release._
 
 ---
 
-## 2. Initial Directory Structure
-The following directories were created and placed under ARI metadata governance:
+### Logging Requirements
 
-- `/doctrine/` — canonical markdown source  
-- `/figures/` — branding and diagrams  
-- root-level `CITATION.cff` — formal scholarly reference  
+All future entries must:
 
-No generated artifacts (PDFs) are stored in the repository.
+- include a precise timestamp (UTC)
+- describe the action and rationale
+- state the governance impact
+- reference any associated ADRs or external records where applicable
 
----
-
-## 3. Initial Descriptor Files Added
-Descriptor files created according to ARI Metadata Policy (v1.0.0):
-
-- `doctrine/descriptor.yml`  
-- `figures/descriptor.yml`  
-
-These establish directory purpose, version lineage, and traceability.
-
----
-
-## 4. Canonical Doctrine Added
-**File:** `doctrine/Neurotransparency_Doctrine.md`  
-**Version:** 1.0.1 (document identity)  
-**Status:** Active  
-**Notes:** Metadata block normalized and aligned with ARI metadata requirements.
-
----
-
-## 5. Banner Asset Added
-**File:** `figures/neuro_doc_banner.png`  
-**Purpose:** Used for visual identity in README and future PDF artifacts.
-
----
-
-## 6. Governance & Alignment
-This repository operates under the following governance principles:
-
-- ARI Metadata Policy  
-- ARI Governance Specification  
-- Neurotransparency as an epistemic invariant  
-- No generated outputs committed to source control  
-- All PDFs produced exclusively via the Waveframe PDF Forge  
-
----
-
-## 7. Release Preparation
-Repository prepared for **initial release: v1.0.0**, which will include:
-
-- Canonical doctrine markdown  
-- CITATION.cff  
-- Repository README  
-- Descriptor files  
-- Release notes (to be drafted at publication time)
-
-No PDF included; users generate via the Forge.
-
----
-
-## End of Log  
-Further entries must append below this point and include:
-
-- timestamp  
-- rationale  
-- governance impact  
-- version impact  
-
-*© 2025 Waveframe Labs — Governed under the Aurora Research Initiative (ARI)*  
+*© 2025 Waveframe Labs — Governed under the Aurora Research Initiative (ARI).*
