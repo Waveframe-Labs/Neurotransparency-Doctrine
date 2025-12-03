@@ -7,9 +7,7 @@ updated: "2025-12-01"
 type: "epistemics"
 author: "Shawn C. Wright"
 dependencies:
-  - "Neurotransparency Specification (NTS)"
-  - "Aurora Workflow Orchestration (AWO)"
-  - "CRI-CORE"
+  - "Neurotransparency Specification (NTS)"  
 anchors:
   - "ANCHOR: NT-Doctrine-v1.0.0-MetadataNormalized"
 ---
