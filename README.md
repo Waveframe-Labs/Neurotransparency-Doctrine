@@ -1,6 +1,6 @@
 ---
 title: "Neurotransparency Doctrine — Repository Overview"
-version: "1.1.0"
+version: "2.0.0"
 status: "Active"
 created: "2025-11-19"
 updated: "2025-12-12"
@@ -12,7 +12,7 @@ ai_assisted: "partial"
 ai_assistance_details: "AI-assisted editorial review and structural consistency checking under full human oversight."
 policy_version: "ARI-Metadata-2.0.0"
 anchors:
-  - "NT-README-v1.1.0"
+  - "NT-README-v2.0.0"
 dependencies:
   - "doctrine/Neurotransparency_Doctrine.md"
 ---
@@ -89,7 +89,7 @@ README.md      – Repository overview
 Wright, Shawn C. (2025).
 Neurotransparency Doctrine: Epistemic Foundations for AI–Human Scientific Workflows.
 Waveframe Labs / Aurora Research Initiative (ARI).
-Version 1.0.0
+Version 2.0.0  
 DOI: TBD
 ```
 
@@ -97,4 +97,10 @@ DOI: TBD
 
 ## License
 
-This work is licensed under **Creative Commons Attribution 4.0 (CC BY 4.0)**.
+This work is licensed under **Creative Commons Attribution 4.0 (CC BY 4.0)**.  
+
+---  
+
+<div align="center">
+  <sub>© 2025 Waveframe Labs — Independent Open-Science Research Entity • Governed under the Aurora Research Initiative (ARI)</sub>
+</div>
