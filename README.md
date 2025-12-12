@@ -60,9 +60,9 @@ It **does not** function as institutional law, enforcement policy, or tooling sp
 
 ### Relationship to ARI
 
-- **ARI (Aurora Research Initiative)** is the constitutional governance authority.
+- **[Aurora Research Initiative (ARI)](https://github.com/Waveframe-Labs/Aurora-Research-Initiative)** is the constitutional governance authority.
 - **Neurotransparency Doctrine** defines epistemic admissibility conditions.
-- **Neurotransparency Specification (NTS)** defines structural and compliance requirements.
+- **[Neurotransparency Specification (NTS)](https://github.com/Waveframe-Labs/Neurotransparency-Specification)** defines structural and compliance requirements.
 - **AWO** and **CRI-CORE** implement enforcement under ARI governance.
 
 Neurotransparency informs ARI.  
