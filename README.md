@@ -1,96 +1,100 @@
+---
+title: "Neurotransparency Doctrine — Repository Overview"
+version: "1.1.0"
+status: "Active"
+created: "2025-11-19"
+updated: "2025-12-14"
+type: "documentation"
+author: "Waveframe Labs"
+maintainer: "Waveframe Labs"
+license: "CC BY 4.0"
+ai_assisted: "partial"
+ai_assistance_details: "AI-assisted editorial review and structural consistency checking under full human oversight."
+policy_version: "ARI-Metadata-2.0.0"
+anchors:
+  - "NT-README-v1.1.0"
+dependencies:
+  - "doctrine/Neurotransparency_Doctrine.md"
+---
+
 <p align="center">
   <img src="figures/neuro_doc_banner.png" alt="Neurotransparency Doctrine Banner" width="100%">
 </p>
 
 # Neurotransparency Doctrine  
-*Foundational Epistemic Framework for Cognitive Integrity in AI–Human Scientific Workflows*  
+*Epistemic Foundations for Cognitive Integrity in AI–Human Scientific Workflows*
 
-**Waveframe Labs · Aurora Research Initiative (ARI)**    
+**Waveframe Labs · Governed under the Aurora Research Initiative (ARI)**  
+
 [![Waveframe Labs](https://img.shields.io/badge/WAVEFRAME%20LABS-Institutional%20Repository-FF6A00?style=flat)](https://waveframelabs.org)
 [![Governed Repository](https://img.shields.io/badge/Governance-ARI%20Compliant-8A2BE2?style=flat)](https://github.com/Waveframe-Labs/Aurora-Research-Initiative)
-[![DOI](https://zenodo.org/badge/DOI/INSERT_CONCEPT_DOI_HERE.svg)](https://doi.org/INSERT_CONCEPT_DOI_HERE)
-[![ORCID](https://img.shields.io/badge/ORCID-0009--0006--6043--9295-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0009-0006-6043-9295)  
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0006--6043--9295-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0009-0006-6043-9295)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-blue.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 ---
 
-## Overview  
-The Neurotransparency Doctrine establishes the epistemic boundary conditions required for cognition—human or synthetic—to legitimately influence scientific claims.  
-It defines the eight axioms of neurotransparency, forming the philosophical foundation for:
+## Overview
 
-- Neurotransparency Specification (NTS)  
-- Aurora Workflow Orchestration (AWO)  
-- Aurora Research Initiative (ARI)  
-- CRI-CORE  
+The **Neurotransparency Doctrine** defines the epistemic conditions under which cognition — human or synthetic — may legitimately influence scientific claims.
 
-Neurotransparency replaces *trust* with *trace*, ensuring scientific reasoning remains reconstructible, attributable, and integrity-protected in distributed AI–human workflows.
+It establishes eight axioms governing:
+- attribution
+- traceability
+- integrity
+- independence
+- continuity
+- falsifiability
+- downstream validity
+- legitimacy through trace rather than trust
+
+The doctrine is **epistemic**, not procedural.  
+It defines *why* certain cognitive standards are required — not *how* they are enforced.
 
 ---
 
-## Scope & Context  
-This repository hosts the **canonical source** of the Neurotransparency Doctrine.  
-It provides the philosophical and epistemic foundation for the entire Aurora research ecosystem.
+## Authority & Scope
 
-What this repository contains:
+This repository contains the **canonical philosophical doctrine** of Neurotransparency.
 
-- The doctrine (Markdown format)  
-- Figures, banners, and citation metadata  
-- License and citation files  
-- Version history and governance logs (as added)
+It **does not** function as institutional law, enforcement policy, or tooling specification.
 
-What this repository does *not* contain:
+### Relationship to ARI
 
-- PDF artifacts  
-- Specification-level requirements (these belong in the NTS repository)  
-- Tooling, workflows, or executables  
-- AWO or CRI-CORE implementation files  
+- **ARI (Aurora Research Initiative)** is the constitutional governance authority.
+- **Neurotransparency Doctrine** defines epistemic admissibility conditions.
+- **Neurotransparency Specification (NTS)** defines structural and compliance requirements.
+- **AWO** and **CRI-CORE** implement enforcement under ARI governance.
 
-This separation ensures clarity, provenance, and long-term governance integrity.
+Neurotransparency informs ARI.  
+ARI governs Neurotransparency.
 
 ---
 
 ## Repository Structure
+
 ```
 /doctrine      – Canonical doctrine source (Markdown)
 /figures       – Visual assets (banners, logos)
 /logs          – Governance and initialization records
 CITATION.cff   – Citation metadata
 LICENSE        – CC BY 4.0 license
-README.md      – Repository overview  
+README.md      – Repository overview
 ```
----
-
-## PDF Release Artifact
-
-The canonical PDF for Doctrine v1.0.0 is **not committed to the repository**.
-It will be generated deterministically using Waveframe Labs’ PDF Forge and published as a **release asset** attached to the `v1.0.0` GitHub release.
 
 ---
 
-## Citation  
+## Citation
+
 ```
-Wright, Shawn C. (2025). Neurotransparency Doctrine:
-Epistemic Foundations for AI–Human Scientific Cognition.
+Wright, Shawn C. (2025).
+Neurotransparency Doctrine: Epistemic Foundations for AI–Human Scientific Workflows.
 Waveframe Labs / Aurora Research Initiative (ARI).
 Version 1.0.0
 DOI: TBD
 ```
 
-Citation metadata is provided in the root `CITATION.cff` file.
-
 ---
 
-## License  
-This work is released under the **Creative Commons  
-Attribution 4.0 International (CC BY 4.0)** license.
+## License
 
----
-
-## Full Doctrine  
-➡️ [Neurotransparency Doctrine](doctrine/Neurotransparency_Doctrine.md)
-
----
-
-<div align="center">
-  <sub>© 2025 Waveframe Labs — Independent Open-Science Research Entity • Governed under the Aurora Research Initiative (ARI)</sub>
-</div>
+This work is licensed under **Creative Commons Attribution 4.0 (CC BY 4.0)**.
