@@ -34,7 +34,7 @@ This log is **append-only**. No historical entries may be modified or removed.
 | 2025-12-01 | Repository structure & metadata audit | Auditor | Compliant | README, CITATION.cff, LICENSE, descriptors verified against ARI norms. |
 | 2025-12-01 | PDF artifact policy ratified | Auditor | Compliant | Canonical source of truth defined as Markdown; PDFs restricted to deterministic release artifacts. |
 | 2025-12-16 | Doctrine refactored to epistemic-only role (v2.0.0) | ARI IC | Approved | Removed normative authority; doctrine explicitly subordinated to ARI governance and NTS compliance layers. |
-| 2025-12-16 | Governance alignment review completed | ARI IC | Compliant | Confirmed no overlap with ARI Epistemic Doctrine; doctrine reclassified as philosophical rationale only. |
+| 2025-12-16 | Governance alignment review completed | ARI IC | Compliant | Confirmed no overlap with ARI Epistemic Doctrine; doctrine reclassified as philosophical rationale only. | 2025-12-16 | Zenodo DOI issuance | Doctrine v2.0.0 is now a formally citable, immutable epistemic reference under ARI governance. |  
 
 ---
 
