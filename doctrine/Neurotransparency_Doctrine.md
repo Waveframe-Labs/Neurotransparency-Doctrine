@@ -808,11 +808,100 @@ Together, the stack preserves legitimacy without collapse.
 
 ## 8. Adoption as an Epistemic Commitment
 
-**Intent:**  
-Describe adoption of Neurotransparency as a philosophical stance rather than a procedural checklist.
+Neurotransparency is not a feature set, compliance checklist, or tooling option.  
+It is an epistemic commitment about what kinds of cognition are allowed to influence claims.
 
-This section explains *why partial adoption undermines epistemic coherence* without asserting
-institutional enforcement.
+Adoption, in this context, is philosophical before it is procedural.
+
+---
+
+### 8.1 Adoption Is a Stance, Not a Mechanism
+
+To adopt Neurotransparency is to accept the following position:
+
+> Cognition that cannot be reconstructed does not possess epistemic standing.
+
+This commitment applies regardless of:
+- whether reasoning is human or synthetic,
+- whether it is intuitive or formal,
+- whether it is convenient or costly to preserve.
+
+The doctrine does not require specific tools or workflows.  
+It requires a willingness to treat unverifiable cognition as epistemically void.
+
+---
+
+### 8.2 Why Partial Adoption Fails
+
+Partial adoption is internally inconsistent.
+
+Examples include:
+- recording model reasoning but not human intuition,
+- logging workflows but omitting decision rationales,
+- preserving outputs while discarding intermediate cognition,
+- enforcing traceability only when it is easy.
+
+Each of these introduces epistemic asymmetry.
+
+Once some cognition is allowed to influence claims without trace,
+there is no principled boundary preventing further erosion.
+
+The system reverts to trust-based legitimacy.
+
+---
+
+### 8.3 Epistemic Coherence Requires Uniformity
+
+Neurotransparency demands coherence, not perfection.
+
+Uniform application means:
+- the same legitimacy criteria apply to all cognitive agents,
+- the same failure conditions invalidate claims,
+- and the same standards govern convenience and inconvenience alike.
+
+This does not imply total capture of all thought.  
+It applies only to cognition that *influences recorded claims or decisions*.
+
+---
+
+### 8.4 Adoption Without Enforcement
+
+A system may philosophically adopt Neurotransparency
+even before institutional or technical enforcement exists.
+
+In such cases:
+- unverifiable cognition is acknowledged as epistemically weak,
+- claims are explicitly scoped or caveated,
+- and legitimacy is not overstated.
+
+This preserves epistemic honesty during transition.
+
+---
+
+### 8.5 Adoption as Boundary-Setting
+
+Adopting Neurotransparency establishes a boundary:
+
+- inside the boundary, claims are reconstructible,
+- outside the boundary, claims are heuristic, informal, or provisional.
+
+The doctrine does not eliminate informal reasoning.  
+It prevents informal reasoning from silently acquiring institutional authority.
+
+---
+
+### 8.6 Summary
+
+To adopt Neurotransparency is to accept a limit:
+
+> Knowledge ends where reconstructibility ends.
+
+This commitment is philosophical, not coercive.  
+Its power comes not from enforcement, but from epistemic consistency.
+
+Institutions may enforce it.  
+Tools may implement it.  
+But the doctrine itself demands only intellectual honesty.
 
 ---
 
