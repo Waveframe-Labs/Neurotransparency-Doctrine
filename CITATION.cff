@@ -2,8 +2,9 @@ cff-version: 1.2.0
 message: "If you use this work, please cite it as below."
 title: "Neurotransparency Doctrine: Epistemic Foundations for Cognitive Integrity in AI–Human Scientific Workflows"
 version: "2.0.0"
-doi: "TBD"
-date-released: "2025-12-16"
+doi: "10.5281/zenodo.17957385"
+url: "https://doi.org/10.5281/zenodo.17957385"
+date-released: "2025-12-16"  
 license: "CC-BY-4.0"
 
 authors:
