@@ -1237,7 +1237,7 @@ Wright, Shawn C. (2025).
 **Neurotransparency Doctrine: Epistemic Foundations for Cognitive Integrity in AI–Human Scientific Workflows.**  
 Waveframe Labs · Governed under the Aurora Research Initiative (ARI).  
 Version 2.0.0.  
-DOI: *TBD*
+DOI: https://doi.org/10.5281/zenodo.17957385  
 
 ---
 
