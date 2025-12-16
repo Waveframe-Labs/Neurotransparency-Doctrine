@@ -1,11 +1,17 @@
 ---
 title: "Neurotransparency Doctrine — Figures Directory"
-version: "1.0.0"
+version: "2.0.0"
 status: "Active"
 created: "2025-12-01"
+updated: "2025-12-16"
 type: "directory"
 author: "Waveframe Labs"
-purpose: "Stores visual assets including banners and diagrams used in publications."
+maintainer: "Waveframe Labs"
+license: "CC BY 4.0"
+ai_assisted: "partial"
+ai_assistance_details: "AI-assisted metadata normalization under full human oversight."
+policy_version: "ARI-Metadata-2.0.0"
+purpose: "Stores visual assets (banners, diagrams, figures) used exclusively by the Neurotransparency Doctrine canonical text."
 anchors:
-  - "ANCHOR: NT-FIGURES-DIR-v1.0.0"
+  - "NT-FIGURES-DIR-v2.0.0"
 ---
