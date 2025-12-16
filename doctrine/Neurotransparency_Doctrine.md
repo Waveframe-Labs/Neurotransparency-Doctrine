@@ -45,12 +45,34 @@ ratified exclusively by the **Aurora Research Initiative (ARI)** and its adopted
 
 ## Preamble — The Epistemic Crisis of Distributed Cognition
 
-**Intent:**  
-Describe the modern scientific context in which cognition is distributed across humans, AI systems,
-workflow engines, and automated tooling, and explain why traditional assumptions about transparency,
-authorship, and trust no longer hold.
+Scientific knowledge has always depended on cognition: observation, interpretation, judgment, and reasoning. Historically, this cognition was assumed to be local, human, inspectable, and stable over time. The legitimacy of scientific claims rested on the belief that the reasoning behind them could, in principle, be recovered through notebooks, recollection, or peer explanation.
 
-This section establishes the *problem space*, not the solution.
+That assumption no longer holds.
+
+Modern research is increasingly produced by **distributed cognition**. Human researchers collaborate with large language models, automated workflows, simulation engines, data pipelines, and validation systems. Reasoning is no longer confined to a single mind or moment. It is fragmented across tools, agents, environments, and time. Decisions emerge from interactions between human judgment, synthetic inference, and automated transformation processes.
+
+In this environment, cognition has become **ephemeral**.
+
+Human intuition leaves no durable trace.  
+Model reasoning vanishes with context windows and version updates.  
+Automated workflows transform information without preserving interpretive lineage.  
+Outputs persist, while the reasoning that produced them dissolves.
+
+The result is a growing epistemic gap: claims survive, but their cognitive origins do not.
+
+This gap is not a methodological inconvenience. It is a structural failure mode. When the reasoning that influences a claim cannot be reconstructed, attribution collapses, validation degrades, and scientific legitimacy erodes. Trust silently replaces evidence, authority substitutes for traceability, and outcomes become detached from the cognitive processes that produced them.
+
+Neurotransparency arises in response to this condition.
+
+It is not a tool, a workflow, a compliance standard, or an enforcement mechanism. It is an **epistemic lens**—a way of understanding what must be preserved for cognition to meaningfully contribute to knowledge in a distributed, AI-assisted world. It asks a single foundational question:
+
+> Under what conditions may cognition—human or synthetic—legitimately influence a scientific claim?
+
+The Neurotransparency Doctrine does not prescribe how these conditions are implemented. It does not define institutional rules, technical requirements, or enforcement mechanisms. Instead, it articulates the **epistemic boundary conditions** that make such rules meaningful in the first place.
+
+In a world where cognition is no longer singular, stable, or human-exclusive, scientific legitimacy can no longer rest on trust, reputation, or presumed expertise. It must rest on something more durable: **traceable cognitive provenance**.
+
+This doctrine exists to explain why.
 
 ---
 
