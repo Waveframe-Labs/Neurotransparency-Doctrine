@@ -669,18 +669,140 @@ This constraint preserves rigor without expanding into control.
 
 ## 7. Relationship to the Aurora Governance Stack
 
-**Intent:**  
-Define the clear hierarchical relationship between this doctrine and downstream governance,
-specifications, and tooling.
+Neurotransparency does not exist in isolation.  
+Its purpose is not to govern systems directly, but to **ground** them epistemically.
 
-This section prevents institutional overlap and authority confusion.
+This section defines the explicit hierarchy between the Neurotransparency Doctrine and the
+downstream components of the Aurora ecosystem, preventing authority overlap, duplication, or
+conflicting mandates.
 
-**Conceptual layering:**
-- Neurotransparency Doctrine — epistemic rationale  
-- Neurotransparency Specification (NTS) — normative standard  
-- ARI — institutional authority  
-- AWO — methodological implementation  
-- CRI-CORE — enforcement and execution  
+---
+
+### 7.1 Layered Authority Model
+
+The Aurora governance stack is intentionally stratified.  
+Each layer answers a different question:
+
+| Layer | Role | Question Answered |
+|------|------|-------------------|
+| **Neurotransparency Doctrine** | Epistemic rationale | *Why must cognition be traceable to be legitimate?* |
+| **Neurotransparency Specification (NTS)** | Normative standard | *What structural conditions satisfy neurotransparency?* |
+| **Aurora Research Initiative (ARI)** | Institutional authority | *What rules govern adoption, versioning, and validity?* |
+| **Aurora Workflow Orchestration (AWO)** | Methodological implementation | *How are reasoning processes operationalized?* |
+| **CRI-CORE** | Execution & enforcement | *How are constraints mechanically enforced?* |
+
+Each layer is **necessary but insufficient** on its own.
+
+---
+
+### 7.2 Role of the Neurotransparency Doctrine
+
+The doctrine occupies the **epistemic root layer**.
+
+It:
+- defines legitimacy conditions for cognition,
+- establishes why traceability matters,
+- and explains the failure modes of opaque reasoning.
+
+It does **not**:
+- define schemas,
+- impose compliance rules,
+- or execute enforcement.
+
+The doctrine provides justification, not authority.
+
+---
+
+### 7.3 Relationship to the Neurotransparency Specification (NTS)
+
+The Neurotransparency Specification translates doctrine into **normative structure**.
+
+- The doctrine answers *why* traceability is required.
+- The specification defines *what must be present* for compliance.
+
+The specification may evolve independently,  
+but it must remain philosophically consistent with the doctrine.
+
+If the specification diverges, the doctrine is the reference point for correction.
+
+---
+
+### 7.4 Relationship to ARI (Aurora Research Initiative)
+
+ARI is the **constitutional authority** of the ecosystem.
+
+- ARI adopts, ratifies, and governs standards.
+- ARI determines institutional validity.
+- ARI resolves conflicts between doctrine, specification, and implementation.
+
+Neurotransparency informs ARI’s epistemic posture,  
+but ARI governs Neurotransparency’s institutional role.
+
+This prevents the doctrine from becoming self-legitimating law.
+
+---
+
+### 7.5 Relationship to AWO (Method)
+
+AWO operationalizes reasoning.
+
+It:
+- structures workflows,
+- captures reasoning artifacts,
+- and ensures reproducibility at the method level.
+
+AWO does not define epistemic legitimacy.  
+It implements processes that *may* satisfy it.
+
+Neurotransparency sets the epistemic bar;  
+AWO attempts to meet it.
+
+---
+
+### 7.6 Relationship to CRI-CORE (Tooling)
+
+CRI-CORE enforces constraints mechanically.
+
+It:
+- validates integrity,
+- halts non-compliant execution,
+- and preserves deterministic provenance.
+
+CRI-CORE does not interpret meaning or legitimacy.  
+It enforces conditions declared elsewhere.
+
+Neurotransparency explains *why* enforcement matters;  
+CRI-CORE ensures violations cannot silently propagate.
+
+---
+
+### 7.7 Authority Separation Guarantee
+
+This layered structure guarantees:
+
+- no philosophical document enforces itself,
+- no tool defines legitimacy,
+- no method governs epistemics,
+- and no institution escapes epistemic grounding.
+
+Neurotransparency remains foundational without becoming authoritarian.
+
+---
+
+### 7.8 Summary
+
+Neurotransparency is the epistemic **why** beneath the Aurora ecosystem.
+
+It grounds:
+- the specification’s rules,
+- the institution’s authority,
+- the method’s design,
+- and the tool’s enforcement.
+
+Without it, governance lacks justification.  
+Without governance, it remains philosophy.
+
+Together, the stack preserves legitimacy without collapse.
 
 ---
 
