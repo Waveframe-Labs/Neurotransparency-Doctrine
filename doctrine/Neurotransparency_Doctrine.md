@@ -425,11 +425,139 @@ It is the price of legitimacy in distributed cognition.
 
 ## 5. Human and Synthetic Cognition
 
-**Intent:**  
-Establish epistemic symmetry between human and synthetic cognition.
+Neurotransparency begins from a deliberately non-anthropocentric position:  
+**cognition is epistemically relevant only insofar as it influences claims**, not because of who or what performed it.
 
-This section rejects anthropocentric privilege while preserving human oversight as an interpretive,
-not authoritative, function.
+Human reasoning and synthetic reasoning occupy the same epistemic space once they affect scientific outcomes.
+
+---
+
+### 5.1 The Collapse of Human Epistemic Privilege
+
+Classical science implicitly granted humans epistemic privilege. Human intuition, judgment, and expertise were assumed to be:
+- trustworthy by default,
+- internally coherent,
+- and sufficiently documented through narrative explanation.
+
+These assumptions were never fully justified—they were merely tolerable in environments where cognition was slow, localized, and socially bounded.
+
+In AI-assisted systems, this privilege becomes actively harmful.
+
+Undocumented human intuition now competes with:
+- model-assisted inference,
+- automated transformations,
+- and high-speed workflows whose effects compound rapidly.
+
+Neurotransparency rejects the idea that *human cognition is self-legitimating*.
+
+If human reasoning influences a claim, it must be traceable.
+If it cannot be traced, it has no epistemic standing—regardless of credentials or intent.
+
+---
+
+### 5.2 Synthetic Cognition Is Not Inherently Illegitimate
+
+Conversely, Neurotransparency rejects the assumption that synthetic cognition is inherently opaque or epistemically inferior.
+
+AI systems may:
+- transform information,
+- generate hypotheses,
+- rank alternatives,
+- or influence decisions.
+
+These actions are not epistemically suspect because they are synthetic.
+They are epistemically suspect **only when their influence cannot be reconstructed**.
+
+A synthetic system that produces traceable, attributable, integrity-preserved reasoning has stronger epistemic standing than a human intuition that leaves no record.
+
+Legitimacy is procedural, not biological.
+
+---
+
+### 5.3 Equal Standards, Not Equal Mechanisms
+
+Neurotransparency does **not** require human and synthetic cognition to be recorded in identical ways.
+
+It requires them to meet identical *standards of legitimacy*.
+
+Those standards are:
+- attribution,
+- evidence linkage,
+- integrity,
+- independence,
+- continuity,
+- and reconstructibility.
+
+The mechanisms differ.
+The epistemic bar does not.
+
+Humans are not required to expose inner thoughts.
+Models are not required to explain internal representations.
+
+Both are required to leave a **recoverable cognitive trace** when they influence claims.
+
+---
+
+### 5.4 Mixed Cognition Is the Default Case
+
+Modern scientific work is not human cognition *plus* AI cognition.
+It is **entangled cognition**.
+
+Human judgment selects prompts.
+Models generate alternatives.
+Workflows filter outputs.
+Automation enforces constraints.
+Humans interpret results.
+Tools finalize artifacts.
+
+Neurotransparency treats this mixture as the norm, not an edge case.
+
+In mixed cognition:
+- attribution must disambiguate roles,
+- provenance must span agents,
+- and legitimacy must survive handoffs.
+
+Any framework that assumes a single cognitive locus is already obsolete.
+
+---
+
+### 5.5 Responsibility Without Anthropocentrism
+
+Equal epistemic treatment does not mean equal responsibility.
+
+Neurotransparency distinguishes clearly between:
+- **cognitive influence** (what shaped a claim),
+- and **accountability** (who is responsible for it).
+
+Synthetic systems may influence claims.
+They may not hold responsibility.
+
+Responsibility remains human and institutional.
+Legitimacy remains epistemic and procedural.
+
+This separation prevents both:
+- scapegoating AI for human decisions,
+- and laundering human intuition through automation.
+
+---
+
+### 5.6 The Consequence of Epistemic Equality
+
+By placing human and synthetic cognition under the same epistemic standards, Neurotransparency achieves three outcomes:
+
+1. **Hidden intuition loses authority**  
+   Undocumented reasoning no longer survives by default.
+
+2. **Transparent automation gains legitimacy**  
+   Synthetic cognition becomes usable without epistemic apology.
+
+3. **Governance becomes possible**  
+   Institutions can reason about cognition without privileging or suppressing specific agents.
+
+Neurotransparency does not elevate machines above humans.
+It removes humans from unearned epistemic exemption.
+
+Legitimacy flows from trace, not from origin.
 
 ---
 
