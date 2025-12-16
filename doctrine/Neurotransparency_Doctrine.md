@@ -304,10 +304,122 @@ Together, these axioms define the epistemic boundary of legitimate cognition in 
 
 ## 4. Cognitive Provenance as a Scientific Primitive
 
-**Intent:**  
-Explain why provenance must apply not only to data and artifacts, but to cognition itself.
+Neurotransparency asserts that **cognitive provenance** is not a secondary concern, implementation detail, or documentation artifact. It is a **scientific primitive**—as fundamental to legitimacy as measurement, observation, or reproducibility.
 
-This section reframes cognition as a first-class scientific object.
+In classical science, provenance was implicitly assumed. The cognitive path from evidence to claim was presumed to exist within a stable human mind, operating inside well-understood institutional norms. That assumption no longer holds.
+
+In distributed AI–human systems, cognition is:
+- fragmented across agents,
+- transformed by tools and workflows,
+- influenced by models whose internal states are inaccessible,
+- and mediated by automation that leaves no intuitive trace.
+
+Without explicit cognitive provenance, there is no reliable way to determine **how a claim came to be**.
+
+---
+
+### 4.1 What Cognitive Provenance Is
+
+Cognitive provenance refers to the **externally recoverable lineage of reasoning** that influenced a claim.
+
+It includes:
+- *who or what reasoned* (attribution),
+- *what information was used* (evidence),
+- *how that information was transformed* (reasoning steps),
+- *under what conditions* (context),
+- and *with what dependencies* (tools, models, workflows).
+
+Cognitive provenance is not an explanation of internal thought.
+It is a record of **claim-affecting cognition**.
+
+If cognition influences a claim, it must leave a trace.
+
+---
+
+### 4.2 What Cognitive Provenance Is Not
+
+Cognitive provenance does **not** require:
+- exposure of private thoughts,
+- introspection into human mental states,
+- access to model internals,
+- explainability of neural representations,
+- or surveillance of cognition.
+
+Neurotransparency draws a strict boundary:
+
+> Only cognition that *influences claims* enters the epistemic record.
+
+Internal cognition that never affects an external claim remains private and irrelevant to legitimacy.
+
+---
+
+### 4.3 Why Provenance Must Be Primitive
+
+A scientific primitive is something that **cannot be derived from other guarantees**.
+
+Cognitive provenance cannot be reconstructed from:
+- final results,
+- institutional reputation,
+- peer review outcomes,
+- statistical performance,
+- or model benchmarks.
+
+Once reasoning is lost, no downstream process can restore it.
+
+This makes provenance *prior* to:
+- reproducibility,
+- validation,
+- falsification,
+- and enforcement.
+
+Without provenance:
+- reproducibility becomes coincidence,
+- validation becomes assertion,
+- falsification becomes speculation.
+
+---
+
+### 4.4 Provenance vs. Documentation
+
+Documentation describes outcomes.
+Provenance **anchors legitimacy**.
+
+A well-written paper may explain conclusions clearly while still lacking cognitive provenance. Explanations can be post-hoc. Provenance cannot.
+
+Neurotransparency treats explanation as optional, but provenance as mandatory for legitimacy.
+
+A claim may be understandable yet epistemically void.
+
+---
+
+### 4.5 Provenance as the Bridge Between Cognition and Institution
+
+Cognitive provenance is the interface between:
+- **epistemic philosophy** (what legitimacy requires),
+- and **institutional governance** (how legitimacy is enforced).
+
+The doctrine establishes *why* provenance is necessary.
+Governance frameworks (such as ARI) define *when* provenance is required.
+Methods and tools (AWO, CRI-CORE) define *how* provenance is captured and protected.
+
+Without provenance as a primitive, this entire stack collapses into trust-based assertion.
+
+---
+
+### 4.6 The Cost of Ignoring Cognitive Provenance
+
+When cognitive provenance is absent:
+- errors become irreparable,
+- bias becomes invisible,
+- automation becomes unaccountable,
+- and legitimacy becomes retrospective storytelling.
+
+In such systems, science continues to *produce outputs*—but loses the ability to justify them.
+
+Neurotransparency exists to prevent that failure mode.
+
+Cognitive provenance is not overhead.  
+It is the price of legitimacy in distributed cognition.
 
 ---
 
