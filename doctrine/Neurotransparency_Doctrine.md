@@ -1,6 +1,7 @@
 ---
 title: "Neurotransparency Doctrine"
-version: "2.0.0"
+version: "2.0.0"  
+doi: "10.5281/zenodo.17957385"  
 status: "Active"
 created: "2025-11-19"
 updated: "2025-12-16"
@@ -1252,7 +1253,7 @@ DOI: *TBD*
   publisher    = {Aurora Research Initiative (ARI)},
   orcid        = {0009-0006-6043-9295},
   license      = {CC BY 4.0},
-  doi          = {TBD}
+  doi = {10.5281/zenodo.17957385}  
 }
 ```
 ---  
