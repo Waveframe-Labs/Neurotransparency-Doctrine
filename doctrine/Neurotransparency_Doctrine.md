@@ -1,242 +1,197 @@
 ---
 title: "Neurotransparency Doctrine"
-version: "1.0.0"
+version: "2.0.0"
 status: "Active"
 created: "2025-11-19"
-updated: "2025-12-04"
+updated: "2025-12-16"
 type: "epistemics"
-author: "Shawn C. Wright"
+author: "Waveframe Labs"
+maintainer: "Waveframe Labs"
+license: "CC BY 4.0"
+ai_assisted: "partial"
+ai_assistance_details: "AI-assisted structural refactoring and consistency review under full human oversight."
+policy_version: "ARI-Metadata-2.0.0"
 dependencies:
-  - "Neurotransparency Specification (NTS) v1.1.0"   
+  - "Aurora Research Initiative (ARI)"
+  - "Neurotransparency Specification (NTS)"
 anchors:
-  - "ANCHOR: NT-Doctrine-v1.0.0-MetadataNormalized"
+  - "NT-Doctrine-v2.0.0"
 ---
 
 # Neurotransparency Doctrine  
-## An Epistemic Primitive for AI–Human Scientific Collaboration
-
-**Author:** Shawn C. Wright  
-**Affiliation:** Waveframe Labs / Aurora Research Initiative  
+*Epistemic Foundations for Cognitive Integrity in AI–Human Scientific Workflows*
 
 ---
 
-## Preamble
+## Document Position & Authority
 
-AI-assisted research is now produced by distributed cognition: humans, synthetic models, workflow engines, and automated validators operate together to generate scientific claims. Yet the reasoning that shapes these claims is increasingly irrecoverable. Human intuition leaves no audit trail. Model reasoning is erased by context-window limits and version changes. Automated processes transform information without a reconstructible justification path.
+**Purpose of this document**
 
-Scientific legitimacy cannot survive when the cognitive processes behind claims become unrecoverable.
+This document defines the **philosophical and epistemic rationale** for Neurotransparency.
 
-The **Neurotransparency Doctrine** establishes the non-negotiable epistemic conditions under which cognition—human or synthetic—may influence AI-influenced claims and decisions. It replaces trust with traceability, intuition with evidence, and authority with reconstructibility.
+It explains **why** cognitive traceability, attribution, and reconstructibility are necessary in
+AI–human scientific work.
 
----
+**This document is not:**
+- institutional law  
+- a compliance specification  
+- an enforcement policy  
+- a governance authority  
 
-## 1. Core Principle
-
-**No inference may influence a scientific claim unless its origin and reasoning path are externally visible, independently attributable, and permanently preserved.**
-
-Neurotransparency is not an interpretability tool, ethical preference, or best practice.  
-It is an **epistemic boundary condition**:  
-if the reasoning behind a claim cannot be reconstructed, the claim has no legitimacy.  
-
-Neurotransparency defines the epistemic foundation (Layer 0) that makes scientific and organizational standards possible (Layer 1). ARI, AWO, and CRI-CORE provide the institutional mechanisms that enforce these standards (Layer 2).  
+Normative requirements, enforcement mechanisms, and institutional authority are defined and
+ratified exclusively by the **Aurora Research Initiative (ARI)** and its adopted standards.
 
 ---
 
-## 2. The Collapse of Cognitive Transparency
+## Preamble — The Epistemic Crisis of Distributed Cognition
 
-Legacy science assumes that cognition is:
+**Intent:**  
+Describe the modern scientific context in which cognition is distributed across humans, AI systems,
+workflow engines, and automated tooling, and explain why traditional assumptions about transparency,
+authorship, and trust no longer hold.
 
-- local  
-- stable  
-- attributable  
-- inspectable  
-- reproducible  
-
-In AI-assisted research, none of these assumptions hold.
-
-Today, reasoning is:
-
-- distributed across multiple agents  
-- ephemeral within context windows  
-- altered by model-version shifts  
-- obscured by undocumented human intuition  
-- transformed by automated workflows  
-
-This opacity is not a methodological inconvenience—it is an existential threat to scientific validity. Without neurotransparency, synthetic cognition becomes a black box and human cognition becomes invisible.
+This section establishes the *problem space*, not the solution.
 
 ---
 
-## 3. Axioms of the Doctrine
+## 1. The Core Claim of Neurotransparency
 
-The doctrine consists of eight epistemic axioms that define the minimum conditions under which cognition may contribute to a scientific claim.
+**Intent:**  
+State the central philosophical claim of Neurotransparency: that cognition influencing scientific
+claims must be externally traceable to preserve epistemic legitimacy.
 
-### Axiom 1 — Attribution  
-
-Every reasoning step must be explicitly attributed to a declared cognitive role.  
-Anonymous cognition has no epistemic status.
-
-### Axiom 2 — Evidence-Linkage  
-
-A claim decision influenced by AI-assisted reasoning is admissible only if verifiable pointers exist linking it to the reasoning and evidence that produced it.
-
-### Axiom 3 — Integrity  
-
-All reasoning artifacts must be preserved in immutable form with cryptographically verifiable integrity.
-
-### Axiom 4 — Independence  
-
-No cognitive agent may validate its own reasoning.  
-Strict separation of roles is mandatory.
-
-### Axiom 5 — Continuity  
-
-The reasoning trail must remain reconstructible across time, context loss, model updates, and agent turnover.
-
-### Axiom 6 — Minimal Reasoning Unit  
-
-The smallest admissible unit of cognition must contain:  
-
-- a declared role  
-- explicitly identifiable evidence  
-- a stable output  
-- a timestamp  
-
-The unit must be sufficiently explicit that it can be revalidated or recomputed without reference to inaccessible cognitive states.  
-
-Anything less is metadata, not cognition.  
-
-### Axiom 7 — Downstream Validity  
-
-If any reasoning step becomes unverifiable, all derivative claims lose epistemic validity.
-
-### Axiom 8 — Trace Over Trust  
-
-Legitimacy derives from reconstructible cognitive trace—  
-not expertise, intuition, reputation, or institutional authority.
+This section frames Neurotransparency as an *epistemic boundary condition*, not a rule set.
 
 ---
 
-## 4. Why Neurotransparency Is Required
+## 2. The Collapse of Classical Cognitive Assumptions
 
-Distributed cognition has dissolved the conditions that once made science verifiable.  
-In this new environment:
+**Intent:**  
+Explain why legacy assumptions about cognition (locality, stability, inspectability, attribution)
+fail in AI-assisted and automated research environments.
 
-- authorship is fragmented  
-- reasoning is unstable  
-- context is volatile  
-- synthetic inference is opaque  
-- human intuition is unrecorded  
-- workflows obscure transformation paths  
-
-Without cognitive provenance we cannot determine:
-
-- who reasoned  
-- why decisions were taken  
-- whether claims reflect evidence  
-- whether model updates invalidate prior reasoning  
-- whether intuition silently replaced missing justification  
-
-A claim without cognitive provenance is epistemically meaningless.
+This section motivates the need for a new epistemic foundation without prescribing enforcement.
 
 ---
 
-## 5. Human and Synthetic Cognition Are Epistemically Equal
+## 3. The Axioms of Neurotransparency
 
-Neurotransparency rejects anthropocentric epistemic privilege.  
-Human intuition is not self-justifying, and model inference is not inherently opaque.  
-Both must meet identical evidentiary standards:
+**Intent:**  
+Present the eight axioms of Neurotransparency as **epistemic principles**, not institutional
+requirements.
 
-- traceable  
-- attributable  
-- reconstructible  
-- integrity-protected  
+Each axiom should describe a condition that must *hold for legitimacy to exist*, rather than a rule
+to be enforced.
 
-This establishes epistemic equality between human and synthetic cognitive agents.
+### 3.1 Attribution  
+*(Why anonymous cognition lacks epistemic standing)*
+
+### 3.2 Evidence Linkage  
+*(Why claims must remain connected to their reasoning and evidence)*
+
+### 3.3 Integrity  
+*(Why cognitive artifacts must be protected against silent alteration)*
+
+### 3.4 Independence  
+*(Why self-validation undermines epistemic trust)*
+
+### 3.5 Continuity  
+*(Why reasoning must remain reconstructible across time and system change)*
+
+### 3.6 Minimal Reasoning Unit  
+*(Why cognition must be decomposable into re-evaluatable units)*
+
+### 3.7 Downstream Validity  
+*(Why unverifiable reasoning propagates epistemic failure)*
+
+### 3.8 Trace Over Trust  
+*(Why legitimacy derives from traceability rather than authority)*
+
+---
+
+## 4. Cognitive Provenance as a Scientific Primitive
+
+**Intent:**  
+Explain why provenance must apply not only to data and artifacts, but to cognition itself.
+
+This section reframes cognition as a first-class scientific object.
+
+---
+
+## 5. Human and Synthetic Cognition
+
+**Intent:**  
+Establish epistemic symmetry between human and synthetic cognition.
+
+This section rejects anthropocentric privilege while preserving human oversight as an interpretive,
+not authoritative, function.
 
 ---
 
 ## 6. What Neurotransparency Is Not
 
-To prevent dilution, the doctrine specifies what it *does not* require:
+**Intent:**  
+Explicitly delimit the scope of the doctrine to prevent misinterpretation or overreach.
 
-- interpretability  
-- explainability  
+Clarify that Neurotransparency does not require:
+- interpretability of internal cognition  
 - exposure of private thought  
-- surveillance or behavioral monitoring  
-- justification of internal cognition  
-- architectural modifications to AI systems  
-
-Neurotransparency applies **only** to cognition that influences any claim or decision influenced by AI-assisted reasoning — the moment reasoning leaves the mind and enters the record.  
+- surveillance of agents  
+- architectural changes to AI systems  
 
 ---
 
-## 7. Ethical and Epistemic Consequences
+## 7. Relationship to the Aurora Governance Stack
 
-Neurotransparency produces a new model of scientific legitimacy:
+**Intent:**  
+Define the clear hierarchical relationship between this doctrine and downstream governance,
+specifications, and tooling.
 
-- **Accountability without intrusion** — only claim-affecting reasoning is recorded.  
-- **Post-institutional validation** — legitimacy derives from evidence, not affiliation.  
-- **Procedural trust** — trust emerges from traceability, not authority.  
-- **Epistemic equity** — humans and AI must meet identical standards.  
-- **Future-proof science** — reasoning remains valid across time and model evolution.
+This section prevents institutional overlap and authority confusion.
 
----
-
-## 8. Doctrine–Specification Boundary
-
-The doctrine defines **why** neurotransparency is required.  
-The Neurotransparency Specification (NTS) defines the operational rules and schema-level requirements.
-AWO and CRI-CORE implement those rules through:
-- workflow enforcement  
-- deterministic execution  
-- role separation  
-- integrity guarantees  
-- validation constraints   
- Neurotransparency governs epistemic validity.  
-NTS governs structural compliance.  
-AWO and CRI-CORE govern operational enforcement.
-
-**The doctrine is philosophical.**  
-**The specification is a compliance target.**
+**Conceptual layering:**
+- Neurotransparency Doctrine — epistemic rationale  
+- Neurotransparency Specification (NTS) — normative standard  
+- ARI — institutional authority  
+- AWO — methodological implementation  
+- CRI-CORE — enforcement and execution  
 
 ---
 
-## 9. Adoption Requirement
+## 8. Adoption as an Epistemic Commitment
 
-Any workflow involving distributed cognition and producing AI-influenced claims and decisions must adopt neurotransparency as a structural invariant.
+**Intent:**  
+Describe adoption of Neurotransparency as a philosophical stance rather than a procedural checklist.
 
-Partial or interpretive adoption **undermines epistemic legitimacy**.  
-Cognition can influence a claim only when **all** reasoning steps satisfy neurotransparency.
-
----
-
-## Conclusion
-
-Neurotransparency is the epistemic primitive for AI–human scientific work.  
-It restores cognitive integrity in environments where reasoning is distributed, synthetic, and unstable.  
-It ensures that science remains reconstructible, auditable, and legitimate.
-
-The doctrine provides the foundation.  
-The specification provides the machinery.  
-Together, they define the next stage of scientific reproducibility.
+This section explains *why partial adoption undermines epistemic coherence* without asserting
+institutional enforcement.
 
 ---
 
-## Recommended Citation (BibTeX)
+## 9. Implications for Scientific Legitimacy
 
-```bibtex
-@misc{wright_neurotransparency_doctrine_2025,
-  author       = {Wright, Shawn C.},
-  title        = {Neurotransparency Doctrine: An Epistemic Primitive for AI–Human Scientific Collaboration},
-  year         = {2025},
-  version      = {1.0.0},
-  institution  = {Waveframe Labs / Aurora Research Initiative},
-  license      = {CC BY 4.0},
-  orcid        = {0009-0006-6043-9295},
-  doi          = {TBD}
-}
-```
+**Intent:**  
+Discuss how Neurotransparency reshapes trust, validation, authorship, and reproducibility in
+post-institutional science.
+
+This section focuses on consequences, not requirements.
 
 ---
 
-*© 2025 Waveframe Labs · Aurora Research Initiative (ARI) · Licensed under CC BY 4.0*
+## Conclusion — Neurotransparency as a Precondition
+
+**Intent:**  
+Reaffirm Neurotransparency as a foundational epistemic concept necessary for credible AI–human
+science, independent of any specific institution, tool, or implementation.
+
+---
+
+## Glossary (Optional)
+
+**Intent:**  
+Provide precise definitions for key terms used in the doctrine (e.g., cognition, traceability,
+provenance, epistemic legitimacy) to avoid ambiguity and drift.
+
+---
+
+*© 2025 Waveframe Labs · Governed under the Aurora Research Initiative (ARI) · CC BY 4.0*
