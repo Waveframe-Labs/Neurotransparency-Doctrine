@@ -172,36 +172,133 @@ Neurotransparency exists to respond to that collapse.
 
 ## 3. The Axioms of Neurotransparency
 
-**Intent:**  
-Present the eight axioms of Neurotransparency as **epistemic principles**, not institutional
-requirements.
+The axioms of Neurotransparency define the **minimum epistemic conditions under which cognition may legitimately influence a claim**. They are not procedural rules, compliance checks, or governance requirements. They describe *what must be true* for legitimacy to exist at all.
 
-Each axiom should describe a condition that must *hold for legitimacy to exist*, rather than a rule
-to be enforced.
+If any axiom fails to hold, epistemic legitimacy collapses—regardless of intent, expertise, institutional backing, or empirical success.
+
+These axioms apply equally to human and synthetic cognition.
+
+---
 
 ### 3.1 Attribution  
 *(Why anonymous cognition lacks epistemic standing)*
 
+For cognition to influence a claim, its origin must be identifiable.
+
+Attribution establishes **epistemic responsibility**: it answers the question of *who or what reasoned*. Without attribution, cognition cannot be evaluated, challenged, contextualized, or held accountable. Anonymous reasoning may produce outputs, but it cannot produce knowledge.
+
+This does not require personal identity disclosure beyond what is necessary for accountability. It requires that every reasoning contribution be associated with a declared cognitive role—human, model, workflow, or system—such that its influence is externally visible.
+
+Cognition without attribution is indistinguishable from noise.  
+Noise cannot ground legitimacy.
+
+---
+
 ### 3.2 Evidence Linkage  
 *(Why claims must remain connected to their reasoning and evidence)*
+
+A claim derives legitimacy not from its conclusion, but from the reasoning and evidence that produced it.
+
+Evidence linkage ensures that claims remain **structurally connected** to:
+- the information they depended on,
+- the reasoning steps that transformed that information,
+- and the context in which decisions were made.
+
+When claims are severed from their evidentiary lineage, evaluation becomes impossible. One may observe *that* a claim exists, but not *why* it exists.
+
+A claim without recoverable linkage to its reasoning and evidence is epistemically inert. It may be persuasive or useful, but it is not knowable.
+
+---
 
 ### 3.3 Integrity  
 *(Why cognitive artifacts must be protected against silent alteration)*
 
+Cognition influences claims through artifacts: text, data, intermediate outputs, logs, models, and transformations.
+
+If those artifacts can be altered without detection, epistemic continuity is broken. A reasoning trail that can be silently modified cannot be trusted—even if the modification is unintentional.
+
+Integrity ensures that cognitive artifacts remain **stable objects of evaluation**. It allows third parties to determine whether what they are examining is the same reasoning that originally influenced a claim.
+
+Without integrity guarantees, provenance becomes performative rather than factual. Legitimacy dissolves into assumption.
+
+---
+
 ### 3.4 Independence  
 *(Why self-validation undermines epistemic trust)*
+
+No cognitive agent can serve as both the producer and validator of its own reasoning.
+
+Self-validation collapses the distinction between *reasoning* and *justification*. When agents validate themselves—whether human, institutional, or synthetic—error becomes indistinguishable from correctness.
+
+Independence ensures that validation is epistemically meaningful. It preserves the possibility of contradiction, correction, and falsification.
+
+A claim validated only by its own reasoning chain is epistemically circular. Circularity cannot ground trust.
+
+---
 
 ### 3.5 Continuity  
 *(Why reasoning must remain reconstructible across time and system change)*
 
+Legitimacy must persist beyond the moment of cognition.
+
+Continuity requires that reasoning remain reconstructible across:
+- time,
+- context loss,
+- personnel changes,
+- model updates,
+- tooling evolution,
+- and system replacement.
+
+If cognition cannot survive these transitions, legitimacy becomes time-bound and fragile. Knowledge decays into historical accident.
+
+Continuity does not require that reasoning be immutable in interpretation—only that it remain *accessible for re-evaluation*. Knowledge that cannot be revisited cannot be trusted.
+
+---
+
 ### 3.6 Minimal Reasoning Unit  
 *(Why cognition must be decomposable into re-evaluatable units)*
+
+For reasoning to be reconstructible, it must be **decomposable**.
+
+The minimal reasoning unit is the smallest externally evaluatable fragment of cognition that still carries epistemic meaning. It must contain:
+- an identifiable cognitive role,
+- explicit evidentiary reference,
+- a stable output,
+- and sufficient context for re-evaluation.
+
+Cognition that exists only as an inseparable mass—intuition, implicit judgment, or opaque transformation—cannot be validated without re-enacting the original cognitive state.
+
+Such cognition may influence action, but it cannot justify claims.
+
+---
 
 ### 3.7 Downstream Validity  
 *(Why unverifiable reasoning propagates epistemic failure)*
 
+Epistemic legitimacy is transitive.
+
+If a reasoning step becomes unverifiable, all claims that depend on it inherit that failure. Downstream validity cannot exceed upstream integrity.
+
+This axiom prevents epistemic laundering, where invalid reasoning is hidden beneath later correct steps. A correct conclusion reached through unverifiable cognition remains epistemically compromised.
+
+Legitimacy propagates forward only if traceability remains intact.
+
+---
+
 ### 3.8 Trace Over Trust  
 *(Why legitimacy derives from traceability rather than authority)*
+
+Neurotransparency rejects authority, reputation, and expertise as substitutes for traceability.
+
+Trust may motivate engagement, but it cannot ground legitimacy. Expertise may increase the probability of correctness, but it does not replace the need for reconstructible reasoning.
+
+Traceability allows claims to be evaluated independently of who made them or why they were believed.
+
+Legitimacy emerges from what can be traced, not who is trusted.
+
+---
+
+Together, these axioms define the epistemic boundary of legitimate cognition in AI–human scientific systems. They do not prescribe tools or institutions. They describe the conditions under which knowledge remains possible when cognition itself is distributed, synthetic, and unstable.
 
 ---
 
