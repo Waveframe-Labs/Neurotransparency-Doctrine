@@ -59,6 +59,7 @@ Canonical authority and approval records are maintained in:
 - Updated metadata to ARI v2.0.0 standards.
 - Aligned versioning, dates, and scope with ARI governance model.
 - Prepared the repository for clean DOI minting on release.
+- Zenodo DOI minted and linked (concept + version)
 
 ---
 
