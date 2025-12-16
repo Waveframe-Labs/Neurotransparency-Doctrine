@@ -563,14 +563,107 @@ Legitimacy flows from trace, not from origin.
 
 ## 6. What Neurotransparency Is Not
 
-**Intent:**  
-Explicitly delimit the scope of the doctrine to prevent misinterpretation or overreach.
+Neurotransparency is frequently misinterpreted as an attempt to peer inside minds—human or artificial.  
+This section exists to draw a **hard boundary** around the doctrine and prevent epistemic overreach.
 
-Clarify that Neurotransparency does not require:
-- interpretability of internal cognition  
-- exposure of private thought  
-- surveillance of agents  
-- architectural changes to AI systems  
+Neurotransparency governs **legitimacy of influence**, not internal cognition itself.
+
+---
+
+### 6.1 Not Interpretability
+
+Neurotransparency does **not** require interpretability of internal cognitive processes.
+
+It does not demand:
+- explanations of neural activations,
+- symbolic unpacking of model internals,
+- or introspective accounts of human thought.
+
+A reasoning process may remain entirely opaque internally and still be epistemically legitimate  
+*if its influence on claims is externally traceable and reconstructible*.
+
+Interpretability is an engineering goal.  
+Neurotransparency is an epistemic boundary condition.
+
+---
+
+### 6.2 Not Exposure of Private Thought
+
+Neurotransparency does **not** require exposure of private mental states.
+
+Human thoughts that never influence a claim are epistemically irrelevant.  
+They remain private by default.
+
+Only cognition that:
+- shapes a decision,
+- alters a conclusion,
+- or influences an artifact
+
+enters the epistemic domain.
+
+Neurotransparency applies **at the moment cognition leaves the mind and enters the record**.
+
+---
+
+### 6.3 Not Surveillance or Behavioral Monitoring
+
+Neurotransparency is not a monitoring regime.
+
+It does not:
+- track cognitive activity continuously,
+- observe agents preemptively,
+- or enforce behavioral compliance.
+
+There is no requirement to log *everything*—only to preserve what matters for legitimacy.
+
+Surveillance seeks control.  
+Neurotransparency seeks reconstructibility.
+
+---
+
+### 6.4 Not Architectural Prescription
+
+Neurotransparency does **not** mandate changes to AI system architectures.
+
+It does not require:
+- new model designs,
+- special training regimes,
+- privileged access to internal states,
+- or modifications to inference mechanisms.
+
+Any system—human or synthetic—can satisfy Neurotransparency  
+so long as its claim-affecting influence leaves a recoverable trace.
+
+The doctrine is agnostic to implementation.
+
+---
+
+### 6.5 Not an Enforcement Mechanism
+
+Neurotransparency is not a policy, a tool, or a validator.
+
+It does not:
+- reject artifacts,
+- halt pipelines,
+- or enforce compliance.
+
+Those functions belong to governance (ARI), specification (NTS), and tooling (AWO, CRI-CORE).
+
+Neurotransparency defines **why legitimacy fails**—  
+not **how failure is detected or corrected**.
+
+---
+
+### 6.6 The Boundary Condition
+
+Neurotransparency draws a single, precise line:
+
+> If cognition influences a claim, and that influence cannot be reconstructed,  
+> the claim has no epistemic standing.
+
+Everything outside that condition remains outside the doctrine’s scope.
+
+This constraint preserves rigor without expanding into control.
 
 ---
 
