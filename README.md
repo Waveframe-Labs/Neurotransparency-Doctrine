@@ -3,7 +3,7 @@ title: "Neurotransparency Doctrine — Repository Overview"
 version: "2.0.0"
 status: "Active"
 created: "2025-11-19"
-updated: "2025-12-12"
+updated: "2025-12-16"
 type: "documentation"
 author: "Waveframe Labs"
 maintainer: "Waveframe Labs"
@@ -60,9 +60,9 @@ It **does not** function as institutional law, enforcement policy, or tooling sp
 
 ### Relationship to ARI
 
-- **[Aurora Research Initiative (ARI)](https://github.com/Waveframe-Labs/Aurora-Research-Initiative)** is the constitutional governance authority.
+- **Aurora Research Initiative (ARI)** is the constitutional governance authority.
 - **Neurotransparency Doctrine** defines epistemic admissibility conditions.
-- **[Neurotransparency Specification (NTS)](https://github.com/Waveframe-Labs/Neurotransparency-Specification)** defines structural and compliance requirements.
+- **Neurotransparency Specification (NTS)** defines structural and compliance requirements.
 - **AWO** and **CRI-CORE** implement enforcement under ARI governance.
 
 Neurotransparency informs ARI.  
@@ -97,7 +97,7 @@ DOI: TBD
 
 ## License
 
-This work is licensed under **Creative Commons Attribution 4.0 (CC BY 4.0)**.  
+This work is licensed under **Creative Commons Attribution 4.0 (CC BY 4.0)**.
 
 ---  
 
