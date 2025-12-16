@@ -29,6 +29,7 @@ dependencies:
 
 [![Waveframe Labs](https://img.shields.io/badge/WAVEFRAME%20LABS-Institutional%20Repository-FF6A00?style=flat)](https://waveframelabs.org)
 [![Governed Repository](https://img.shields.io/badge/Governance-ARI%20Compliant-8A2BE2?style=flat)](https://github.com/Waveframe-Labs/Aurora-Research-Initiative)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17957384.svg)](https://doi.org/10.5281/zenodo.17957384)  
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0006--6043--9295-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0009-0006-6043-9295)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-blue.svg)](https://creativecommons.org/licenses/by/4.0/)
 
@@ -81,6 +82,14 @@ CITATION.cff   – Citation metadata
 LICENSE        – CC BY 4.0 license
 README.md      – Repository overview
 ```
+
+## Persistent Identifiers (DOI)
+
+- **Concept DOI (all versions):**  
+  https://doi.org/10.5281/zenodo.17957384  
+
+- **Version DOI (v2.0.0):**  
+  https://doi.org/10.5281/zenodo.17957385
 
 ---
 
