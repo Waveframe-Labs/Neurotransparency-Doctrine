@@ -907,28 +907,353 @@ But the doctrine itself demands only intellectual honesty.
 
 ## 9. Implications for Scientific Legitimacy
 
-**Intent:**  
-Discuss how Neurotransparency reshapes trust, validation, authorship, and reproducibility in
-post-institutional science.
+Neurotransparency reframes scientific legitimacy at its foundation.  
+Rather than asking *who* produced a claim or *where* it was published, it asks a single prior
+question:
 
-This section focuses on consequences, not requirements.
+> Can the cognition that produced this claim be reconstructed well enough to be examined?
+
+This shift has broad consequences for how trust, validation, authorship, and reproducibility are
+understood in post-institutional science.
+
+---
+
+### 9.1 Trust Becomes Procedural, Not Personal
+
+Under classical models, trust is implicitly delegated:
+- to institutions,
+- to credentials,
+- to reputation,
+- or to peer consensus.
+
+Neurotransparency replaces delegated trust with procedural trust.
+
+Confidence in a claim no longer depends on belief in the claimant, but on the availability of a
+cognitive trace that can be independently examined. Trust is earned through reconstructibility,
+not authority.
+
+This does not eliminate disagreement.  
+It relocates disagreement from *credibility* to *evidence and reasoning*.
+
+---
+
+### 9.2 Validation Shifts from Verdicts to Processes
+
+In a neurotransparency-aligned framework, validation is not a binary judgment handed down by a
+reviewer or institution.
+
+Instead, validation becomes:
+- an ongoing capability,
+- exercised by any sufficiently equipped observer,
+- at any point in time.
+
+A claim remains valid only so long as its cognitive provenance remains intact.  
+Validation is continuous, not ceremonial.
+
+---
+
+### 9.3 Authorship Becomes Attribution of Cognition
+
+Neurotransparency dissolves the ambiguity between authorship as credit and authorship as cognitive
+responsibility.
+
+Authorship is no longer merely:
+- who assembled the document,
+- or who signed their name.
+
+It becomes a declaration of *which cognitive roles influenced the claim*, and how.
+
+This allows:
+- multiple human contributors,
+- synthetic agents,
+- workflow engines,
+- and review roles
+
+to be acknowledged without collapsing responsibility or inflating authority.
+
+---
+
+### 9.4 Reproducibility Extends Beyond Results
+
+Classical reproducibility focuses on outputs:
+- re-running experiments,
+- re-computing results,
+- matching numbers.
+
+Neurotransparency extends reproducibility to cognition itself.
+
+A claim is not fully reproducible unless:
+- the reasoning path can be re-evaluated,
+- decision points can be revisited,
+- and assumptions can be surfaced.
+
+This enables not only replication, but *reinterpretation* under new knowledge or constraints.
+
+---
+
+### 9.5 Post-Institutional Legitimacy
+
+Neurotransparency enables legitimacy outside traditional institutions without abandoning rigor.
+
+In environments where:
+- affiliation is absent,
+- credentials are heterogeneous,
+- and tooling evolves rapidly,
+
+legitimacy arises from traceable cognition rather than institutional endorsement.
+
+This does not reject institutions.  
+It removes their monopoly on epistemic authority.
+
+---
+
+### 9.6 Failure Becomes Informative, Not Disqualifying
+
+When cognitive traces are preserved, failure acquires epistemic value.
+
+Errors can be:
+- localized,
+- attributed,
+- and corrected without invalidating entire bodies of work.
+
+By contrast, opaque reasoning forces failure to be catastrophic or invisible.
+
+Neurotransparency allows science to fail *gracefully*, without erasing its own history.
+
+---
+
+### 9.7 Summary
+
+Neurotransparency does not make science easier.  
+It makes legitimacy explicit.
+
+By grounding trust in reconstructible cognition, it transforms:
+- how claims are believed,
+- how validation occurs,
+- how authorship is understood,
+- and how reproducibility is defined.
+
+Scientific authority shifts from institutions to processes,  
+from reputation to trace,  
+and from trust to transparency.
 
 ---
 
 ## Conclusion — Neurotransparency as a Precondition
 
-**Intent:**  
-Reaffirm Neurotransparency as a foundational epistemic concept necessary for credible AI–human
-science, independent of any specific institution, tool, or implementation.
+Neurotransparency is not a tool, a protocol, or an institutional policy.  
+It is a **precondition** for epistemic legitimacy in environments where cognition is distributed
+across humans, machines, workflows, and time.
+
+Once scientific reasoning is no longer local, stable, or fully human, credibility can no longer be
+inferred from authorship, affiliation, or intent. In such environments, the only defensible basis
+for trust is the ability to **reconstruct how a claim came to be**.
+
+Neurotransparency names this requirement explicitly.
+
+It asserts that:
+- cognition is epistemically relevant only when it leaves a trace,
+- legitimacy depends on reconstructibility rather than authority,
+- and reasoning that cannot be revisited cannot responsibly influence claims.
+
+This doctrine does not prescribe how institutions must operate, how tools must be built, or how
+workflows must be enforced. Those questions belong downstream—to specifications, governance models,
+and implementation layers.
+
+What Neurotransparency provides is the *why*.
+
+It explains why opaque cognition fails,  
+why undocumented intuition is insufficient,  
+why AI-assisted reasoning demands new epistemic discipline,  
+and why scientific validity must now be grounded in cognitive provenance rather than trust.
+
+As long as science relies on distributed cognition—human and synthetic—Neurotransparency is not
+optional. It is the minimal condition under which such science can remain credible, auditable, and
+meaningful over time.
+
+Without it, claims may still be produced.  
+But they cannot be justified.
+
+With it, science remains possible—  
+even in a world where cognition no longer fits inside a single mind.
 
 ---
 
-## Glossary (Optional)
+## Glossary
 
 **Intent:**  
-Provide precise definitions for key terms used in the doctrine (e.g., cognition, traceability,
-provenance, epistemic legitimacy) to avoid ambiguity and drift.
+This glossary defines key terms as they are used *within this doctrine*.  
+The definitions are epistemic, not technical, and are provided to prevent ambiguity, dilution, or
+conceptual drift across interpretations, implementations, or institutional contexts.
 
 ---
 
+### Cognition  
+Any process—human, synthetic, or hybrid—that transforms information into judgments, inferences,
+decisions, or claims.
+
+Within Neurotransparency, cognition becomes epistemically relevant **only when it influences an
+external claim or decision**. Internal thought, intuition, or computation that leaves no trace has
+no epistemic standing.
+
+---
+
+### Distributed Cognition  
+Cognition that is produced across multiple agents, systems, or temporal stages, rather than within
+a single, continuous human reasoning process.
+
+Examples include:
+- human–AI collaboration  
+- workflow-mediated reasoning  
+- model-assisted analysis  
+- automated validation pipelines  
+
+Distributed cognition is the default condition of modern AI-assisted science.
+
+---
+
+### Cognitive Trace  
+A durable, inspectable record of a reasoning step sufficient to establish:
+- who (or what role) performed the reasoning  
+- what evidence was used  
+- what transformation occurred  
+- when the reasoning took place  
+
+A trace need not expose internal mental states, but it must allow **reconstruction of the reasoning
+path** that influenced a claim.
+
+---
+
+### Traceability  
+The property of a claim or artifact whereby its originating reasoning steps can be followed,
+inspected, and re-evaluated by an independent party.
+
+Traceability is not explainability.  
+It is the ability to **walk the causal chain of cognition**, not to narrate it intuitively.
+
+---
+
+### Provenance  
+The complete lineage of an artifact, claim, or decision, including:
+- origin  
+- transformations  
+- contributors  
+- dependencies  
+- contextual conditions  
+
+In Neurotransparency, provenance applies not only to data and artifacts, but to **cognition itself**.
+
+---
+
+### Cognitive Provenance  
+The provenance of reasoning:  
+a record of how cognitive steps influenced a claim across agents, tools, and time.
+
+Cognitive provenance is the central scientific primitive introduced by Neurotransparency.
+
+---
+
+### Epistemic Legitimacy  
+The condition under which a claim may be considered admissible as knowledge.
+
+Under Neurotransparency, legitimacy is granted **only when the reasoning that shaped the claim is
+traceable, attributable, and reconstructible**.
+
+Legitimacy does not derive from authority, expertise, confidence, or consensus.
+
+---
+
+### Attribution  
+The explicit identification of the role, agent, or system responsible for a reasoning step.
+
+Attribution does not imply authorship or ownership; it establishes **epistemic accountability**.
+
+---
+
+### Independence  
+The separation between reasoning, execution, and validation such that no agent or system can
+legitimize its own outputs without external scrutiny.
+
+Independence is a necessary condition for epistemic trust in distributed systems.
+
+---
+
+### Reconstructibility  
+The ability for an independent party to reproduce or re-evaluate the reasoning behind a claim using
+available traces, evidence, and context.
+
+Reconstructibility is stronger than reproducibility:  
+a result may be reproducible without being epistemically justified.
+
+---
+
+### Downstream Validity  
+The principle that epistemic failure propagates.
+
+If a reasoning step becomes unverifiable, all claims that depend on it lose legitimacy, regardless
+of their apparent correctness.
+
+---
+
+### Trust (Epistemic)  
+Reliance on authority, reputation, intuition, or institutional standing in lieu of reconstructible
+reasoning.
+
+Neurotransparency treats trust as **insufficient** for legitimacy.
+
+---
+
+### Trace Over Trust  
+The core normative stance of the doctrine:  
+that epistemic legitimacy must arise from visible cognitive trace rather than assumed credibility.
+
+---
+
+### Doctrine  
+A philosophical framework that defines *why* certain epistemic conditions are necessary.
+
+A doctrine does not prescribe enforcement mechanisms, schemas, or workflows.
+
+---
+
+### Specification  
+A normative standard that defines *what must be satisfied* for compliance with a doctrine.
+
+Specifications translate epistemic principles into operational criteria.
+
+---
+
+This glossary is authoritative for interpreting the Neurotransparency Doctrine and should be used
+as the reference vocabulary for downstream specifications, governance documents, and discussions.
+
+---
+
+## Recommended Citation
+
+### Human-Readable Citation
+
+Wright, Shawn C. (2025).  
+**Neurotransparency Doctrine: Epistemic Foundations for Cognitive Integrity in AI–Human Scientific Workflows.**  
+Waveframe Labs · Governed under the Aurora Research Initiative (ARI).  
+Version 2.0.0.  
+DOI: *TBD*
+
+---
+
+### BibTeX
+
+```bibtex
+@misc{wright_neurotransparency_doctrine_2025,
+  author       = {Wright, Shawn C.},
+  title        = {Neurotransparency Doctrine: Epistemic Foundations for Cognitive Integrity in AI--Human Scientific Workflows},
+  year         = {2025},
+  version      = {2.0.0},
+  institution  = {Waveframe Labs},
+  publisher    = {Aurora Research Initiative (ARI)},
+  orcid        = {0009-0006-6043-9295},
+  license      = {CC BY 4.0},
+  doi          = {TBD}
+}
+```
+---  
 *© 2025 Waveframe Labs · Governed under the Aurora Research Initiative (ARI) · CC BY 4.0*
