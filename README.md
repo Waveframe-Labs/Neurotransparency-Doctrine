@@ -1,6 +1,7 @@
 ---
 title: "Neurotransparency Doctrine — Repository Overview"
 version: "2.0.0"
+doi: "10.5281/zenodo.17957384"  
 status: "Active"
 created: "2025-11-19"
 updated: "2025-12-16"
@@ -90,7 +91,7 @@ Wright, Shawn C. (2025).
 Neurotransparency Doctrine: Epistemic Foundations for AI–Human Scientific Workflows.
 Waveframe Labs / Aurora Research Initiative (ARI).
 Version 2.0.0  
-DOI: TBD
+DOI: 10.5281/zenodo.17957384  
 ```
 
 ---
