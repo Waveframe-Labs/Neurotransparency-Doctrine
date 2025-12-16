@@ -78,21 +78,95 @@ This doctrine exists to explain why.
 
 ## 1. The Core Claim of Neurotransparency
 
-**Intent:**  
-State the central philosophical claim of Neurotransparency: that cognition influencing scientific
-claims must be externally traceable to preserve epistemic legitimacy.
+Neurotransparency makes a single, foundational claim:
 
-This section frames Neurotransparency as an *epistemic boundary condition*, not a rule set.
+**Cognition may influence a scientific claim only if its origin and reasoning path are externally traceable, independently attributable, and reconstructible over time.**
+
+This is not a procedural rule or an enforcement mandate. It is an epistemic boundary condition. It defines the minimum standard that cognition—human or synthetic—must meet to participate in the production of legitimate knowledge.
+
+In traditional science, this boundary was implicit. Reasoning occurred in human minds, recorded imperfectly through papers, notebooks, and oral explanation. The scientific community tolerated gaps in reasoning because cognition was assumed to be:
+- human,
+- local,
+- relatively stable,
+- and recoverable through explanation or replication.
+
+Those assumptions no longer hold.
+
+In AI-assisted and automation-heavy research environments, cognition is:
+- distributed across agents and systems,
+- transient within execution contexts,
+- sensitive to model versions and configuration drift,
+- and frequently irrecoverable after the fact.
+
+Under these conditions, allowing untraceable cognition to influence claims is no longer a benign omission—it is an epistemic failure.
+
+Neurotransparency asserts that **untraceable cognition has no epistemic standing**.  
+If the reasoning that shaped a claim cannot be reconstructed, then the claim cannot be meaningfully evaluated, validated, or trusted—regardless of its apparent correctness or empirical success.
+
+Importantly, this claim applies **symmetrically**:
+- Human intuition is not exempt.
+- Synthetic inference is not disqualified.
+- Authority, expertise, and reputation do not substitute for traceability.
+
+Neurotransparency does not require that all cognition be exposed, explained, or justified. It requires only that cognition which *influences the scientific record* leaves a recoverable trace sufficient for independent scrutiny.
+
+This core claim reframes scientific legitimacy away from *who reasoned* or *how convincing the result appears*, and toward a single criterion:
+
+> Can the cognitive path that produced this claim be reconstructed well enough to be examined, challenged, and revalidated by others?
+
+If the answer is no, the claim may exist—but it does not qualify as knowledge.
 
 ---
 
 ## 2. The Collapse of Classical Cognitive Assumptions
 
-**Intent:**  
-Explain why legacy assumptions about cognition (locality, stability, inspectability, attribution)
-fail in AI-assisted and automated research environments.
+Classical scientific practice rests on a set of implicit assumptions about cognition. These assumptions were never formally articulated as doctrine, but they shaped how knowledge was evaluated, trusted, and preserved.
 
-This section motivates the need for a new epistemic foundation without prescribing enforcement.
+At a minimum, classical science assumed that cognition was:
+
+- **Local** — reasoning occurred within identifiable human minds  
+- **Stable** — the reasoning context persisted long enough to be explained or reproduced  
+- **Attributable** — authorship implied cognitive responsibility  
+- **Inspectable** — reasoning could be questioned, clarified, or defended  
+- **Recoverable** — missing details could be reconstructed through replication or dialogue  
+
+These assumptions made informal cognitive gaps tolerable. A paper might omit intermediate reasoning steps, rely on intuition, or compress complex judgment into prose, yet remain epistemically acceptable because the underlying cognition was presumed accessible in principle.
+
+That presumption has collapsed.
+
+In modern AI-assisted and automation-driven research, cognition no longer satisfies these conditions.
+
+Reasoning is now:
+
+- **Distributed** — spanning humans, models, scripts, workflows, and execution environments  
+- **Ephemeral** — lost to context window limits, transient states, and overwritten configurations  
+- **Version-sensitive** — altered by model updates, dependency changes, and parameter drift  
+- **Opaque by default** — especially within large-scale models and automated pipelines  
+- **Operationalized** — embedded in systems that transform information without narrative explanation  
+
+As a result, traditional proxies for cognitive accountability—authorship, peer review, reputation, and methodological description—no longer reliably indicate *how* or *why* a claim was produced.
+
+The critical failure is not technological. It is epistemic.
+
+Scientific systems continue to accept claims as legitimate while lacking the means to determine:
+- which agents contributed reasoning,
+- what evidence shaped decisions,
+- how transformations occurred,
+- whether the reasoning path still exists,
+- or whether subsequent changes invalidate earlier cognition.
+
+Under these conditions, cognition becomes **non-auditable**. Validation shifts from examining reasoning to trusting outcomes. Scientific legitimacy quietly migrates from traceability to authority, convenience, or empirical coincidence.
+
+Neurotransparency identifies this moment as a structural break.
+
+When the assumptions that once made cognition inspectable no longer hold, legitimacy cannot be preserved by tradition alone. New boundary conditions are required—conditions that treat cognition itself as a first-class artifact subject to provenance, integrity, and reconstruction.
+
+Without those conditions, scientific systems may continue to function operationally, but they lose their ability to distinguish knowledge from artifact.
+
+The collapse of classical cognitive assumptions is not a future risk.  
+It is the present state of AI-influenced science.
+
+Neurotransparency exists to respond to that collapse.
 
 ---
 
