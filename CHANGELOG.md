@@ -6,7 +6,7 @@ created: "2025-12-16"
 type: "changelog"
 author: "Waveframe Labs"
 maintainer: "Waveframe Labs"
-license: "CC BY 4.0"
+license: "CC-BY-4.0"
 policy_version: "ARI-Metadata-2.0.0"
 anchors:
   - "NT-CHANGELOG"
