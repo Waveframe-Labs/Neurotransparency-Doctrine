@@ -19,7 +19,7 @@ dependencies:
 ---
 
 <p align="center">
-  <img src="figures/neuro_doc_banner.png" alt="Neurotransparency Doctrine Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/Waveframe-Labs/.github/main/assets/branding/canon_wf_logo_extended.png" width="700">
 </p>
 
 # Neurotransparency Doctrine  
