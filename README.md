@@ -23,6 +23,8 @@ dependencies:
 </p>
 
 # Neurotransparency Doctrine  
+
+> **Current status (2026-09-01): Published research doctrine — stable.** The Doctrine is preserved as the epistemic rationale for cognitive attribution and traceability. It is not a current Waveframe runtime dependency or enforcement policy. [Read the current repository boundary](STATUS.md).
 *Epistemic Foundations for Cognitive Integrity in AI–Human Scientific Workflows*
 
 **Waveframe Labs · Governed under the Aurora Research Initiative (ARI)**  
